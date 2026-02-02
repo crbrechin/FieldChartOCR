@@ -2,10 +2,13 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .idea/
+*.swp
+*.o*
 
 # Outputs and generated assets
 outputs/
 assets/generated/
+results/
 
 # Large local datasets
 samples/
