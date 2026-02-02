@@ -1,0 +1,95 @@
+FIELD CHART OCR: FINAL PRESENTATION SCRIPT
+DTSA 5506 - Data Mining Project
+Chris Brecken
+
+[SLIDE 1: Title Slide]
+Hello, my name is Chris Brecken, and I'm excited to present my project for DTSA 5506, the Data Mining Project. Today, I'll be discussing Field Chart OCR, a system designed to extract and digitize handwritten charts and tables. This presentation will provide a clear overview of the project motivation, technical approach, and evaluation plans for supervisory-level stakeholders.
+
+[NEXT]
+Let me begin with an overview of the project. Digitizing handwritten charts presents significant challenges due to varied handwriting styles, inconsistent layouts, and noise in scanned images. Manual transcription is slow and time-consuming, creating substantial pain points for data accessibility and analysis. Field Chart OCR aims to automate this process by improving accuracy and efficiency, converting handwritten visual data into machine-readable formats.
+
+[NEXT 3]
+The key challenges in digitizing handwritten charts are multifaceted. First, handwriting is highly inconsistent across individuals. Second, we encounter diverse chart formats and layouts. Third, image noise from camera captures or scans introduces additional complexity. These factors lead to difficulties in automated recognition and interpretation. The lack of standardization increases error rates and makes manual transcription both time-consuming and costly. Addressing these challenges requires robust preprocessing, classification, and OCR techniques specifically tailored for handwritten data.
+
+Originally, I had planned to tackle a wide variety of handwritten notes. I envisioned digitizing time sheets, tables with mixed float and integer values, checklists, free-form writing on lined paper, and even student worksheets for grading purposes. However, the project proved substantially more difficult than I had initially imagined. As a result, I made the strategic decision to limit the digitization efforts to bar charts specifically. This focused approach allowed me to build out an entire end-to-end pipeline and understand what the complete data workflow would look like.
+
+Bar charts represent an excellent starting point for several reasons. First, the colors used in bar charts are easily distinguishable, which simplifies detection. Second, the axes follow predictable straight lines, making geometric analysis more straightforward. Third, there is minimal character recognition work required to extract the core data. Finally, bar charts have a very predictable and structured form, which makes them more amenable to automated processing compared to free-form writing.
+
+[NEXT]
+This image shows the page area with different features highlighted—the green box encompasses the bar chart area, while the red features were used for corner detection, and the blue features for page orientation.
+
+[NEXT]
+Here you can see three images demonstrating the current state of the processing pipeline. The first image on the left shows the cropped and normalized image. This represents the preprocessing stage where I was able to detect the edges of the paper and normalize it for further processing. The image on the right shows manual measurements used for evaluation to verify that the sizing, cropping, rotation, and scaling were consistent with the actual paper dimensions.
+
+[NEXT]
+This project builds upon several important papers in the field. First, "ChartOCR: Data Extraction from Charts Images via a Deep Hybrid Framework" combines deep learning and rule-based methods for extracting data from computer-generated reports. "Automation Classification Analysis and Redesign of Chart Images" addresses extracting data from computer reports for data-driven realization of poorly designed charts. "ChartSense: Interactive Data Extraction from Chart Images" combines human-in-the-loop methods for chart data extraction. "Towards Automated Evaluation of Handwritten Assessments" deals specifically with OCR for grading handwritten assessments, which is directly relevant to my work. "From Pixels to Insight: Survey on Automatic Chart Understanding in the Era of Large Foundation Models" provides a comprehensive survey of chart comprehension methods using foundational models. Finally, "Improving Handwritten Mathematical Expression Recognition by Integrating Network with Transformer and Diffusion-Based Auto Data Augmentation" focuses on translating handwritten mathematical equations into LaTeX, offering insights into handwritten recognition techniques.
+
+[NEXT 2]
+The technical approach employs a modular architecture combining preprocessing, classification, and detection models.
+
+[NEXT]
+Preprocessing is crucial because when taking pictures of pages, they're not always oriented consistently, text direction varies, and paper consistency differs. The preprocessing stage includes photo normalization, which standardizes the input images. Classification identifies the chart type—in this case, distinguishing bar charts from other chart types. Detection models then extract specific elements. This modular approach allows for tailored detection models for different chart types, rather than trying to handle all chart styles with a single extraction method. Eventually, the system will integrate OCR for handwritten text recognition, which will hand off to element recognition functions and information extraction functions to reconstruct charts and tables accurately. The goal is to automate the extraction pipeline, significantly reducing manual effort while maintaining high accuracy in digitizing complex handwritten visual data.
+
+[NEXT]
+The data sources include three main types. First, camera-captured images from my phone of handwritten bar charts. Second, corresponding digital charts created using Python and Jupyter notebooks to serve as ground truth for validation.
+
+[NEXT]
+Third, comma-separated value files containing tabulated data that I synthesized from the paper charts. The data sources also include annotated datasets of handwritten charts and synthetic data generated to augment training diversity. Because I wasn't able to generate enough handwritten examples initially, I intended to bootstrap some of the data to increase the sample size.
+
+[NEXT Until Paper Types]
+[SLIDE 13: Five Star Paper Discovery]
+While in the stationery aisle looking for pens, I stumbled upon Five Star's latest paper, which is designed for use with their study app. I was instantly fascinated by the features that make this an effective medium for digitization. I spent a day modeling the paper in Inkscape, a scalable vector graphics program I've been using since 2015. The most interesting features for me as a data scientist were the quick calibration squares in the corners of each page—you can see them in the top right, top left, bottom right, and bottom left positions. These look like QR codes but are actually quick calibration cues.
+
+[SLIDE 14: Calibration Squares - Design]
+The calibration squares are fascinating from a computer vision perspective. There are four distinct QC squares, each measuring roughly half a millimeter to one millimeter, arranged in a six-by-six pattern of black and white cells. Looking at them, my intuition immediately told me that these patterns were specifically designed to avoid any axes of symmetry. As you can see in this diagram, a general square without decoration has four axes of symmetry. However, the designers have done something quite clever: no matter how you cut and mirror these squares, they remain distinct. This ensures that regardless of the orientation when photographed, the squares can be uniquely identified.
+
+[SLIDE 15: Calibration Square Examples]
+Here I'm showing you that on the left is one of the quick calibration squares. It doesn't matter which way you slice it—across, down, or diagonally—if you compare one side to the other, they don't look the same. They're distinct, which is really clever design. I labeled them as page zero for the back of the page and page one for the front. As you can see, page zero and page one each have distinct top-left and bottom-right squares, while the top-right and bottom-left squares are the same for each page but distinct from each other. This creates a unique signature for page orientation.
+
+[SLIDE 16: Triangle Orientation Feature]
+The other quick calibration feature on the paper is a column of triangles. I measured these triangles and determined that they are not isosceles or equilateral. This intentional asymmetry means that no matter what orientation you're photographing from, there will always be a long edge on the triangle that helps determine the paper's orientation. This feature, combined with the calibration squares, provides robust orientation detection.
+
+[SLIDE 17: Paper Design Variations]
+This discovery sent me down a lengthy rabbit trail about calibration features. Since I had already modeled the grid paper in Inkscape, I decided to explore what other paper types would look like. I created designs for graph paper, blank paper, dot matrix paper, and even hexagonal paper for board game design. This exploration helped me understand the design principles behind effective calibration features.
+
+[NEXT]
+Success will be measured using several key metrics. Classification performance will be evaluated using F1 scores. Detection accuracy will measure how well the system identifies chart elements. Character error rate will assess OCR performance. Finally, runtime performance will determine how well the workflow can manage high volumes of data. These metrics will guide iterative improvements and ensure the system meets practical usability and reliability standards.
+
+[SLIDE 18: Corner Detection Evaluation]
+For the evaluation techniques, the page corner detection metric was designed to find accuracy for detecting corners. The metric uses the product of area and solidity—specifically, the lowest product of area and solidity for candidate corners was determined to be the best indicator. On the left, you can see that the paper detection successfully identified all four edges. For example, the top-right corner had a confidence coefficient of 72.2 percent. To achieve this pixel-to-pixel accuracy, I used the KNN algorithm for pattern detection. I hard-coded the grayscale values of the QC squares into the program, creating a rule-based detection system using KNN edge detection.
+
+[SLIDE 19: Future Improvements]
+However, in the future, I would like to make this a deep learning-assisted function. The normalization process currently fails at the smallest deviation from the near-perfect individual sample. On some samples, I was able to capture three or four corners, but the auto-cropping routine broke because it required all four corners. Attempting to crop with only three corners resulted in skewed images that weren't suitable for computer vision in later steps. A deep learning approach would be more robust to these variations.
+
+[NEXT 2]
+My original timeline was quite optimistic. I had planned to finish annotating and labeling the initial dataset, which I did complete. I have implemented normalization, though it's missing the deep learning aspect, which I need to revisit. I had planned to integrate baseline handwriting OCR and a chart classifier, but I had not finished the chart classifier at the time of this presentation. The subsequent weeks were intended for deploying element detectors and table recognizers, checking data parity with CSV tables, integrating semantic assembly, and running quantitative evaluations. However, now that this course is over, I definitely intend to continue this work.
+
+[SLIDE 21: Current Status]
+As you can see, I've separated out the different features because they're not really dependent on one another. I managed to make significant progress in the page design task. The computer vision functions were implemented, but I got stopped during testing when my samples were showing less than four corners. Some of these were intentionally poor pictures I had taken to stress-test the computer vision functions and assess robustness. I'm still working on calibration page detection to normalize images and crop content. The normalization step is important because it helps subsequent steps accurately size the bar charts, removes extra noise, and ensures everything is standardized, which helps measure different objects and elements within the page.
+
+[SLIDE 22: Anti-Cheat Paper Feature]
+Now I'd like to introduce an interesting side project that emerged from this work. I've been asked to teach music theory, and while putting together a worksheet, I developed an idea for what I call "anti-cheat paper" Using Python, I created a PDF maker that signs each page of a document with a watermark that facilitates analysis of worksheets for tampering or cheating. The new features include barcodes, red-green-blue calibration squares, and grayscale calibration squares. The PDF maker works on existing PDFs, signs each page, and logs the signature of each page for future reference.
+
+[SLIDE 23: Anti-Cheat Features Detail]
+In the top right, you can see grayscale squares at 30%, 50%, 60%, and 100% black. In the top left, there are true HTML color squares—red being #FF0000, green being #00FF00, and blue being #00FFFF. At the bottom, you can see an example of the barcode. It's an Ons Post barcode, and I chose this particular type because it's a four-state barcode that doesn't require end caps for delimitation. I intend to use it to encode a UUID that can store certain information like page orientation, answer areas for grading, question weights, and other metadata.
+
+[SLIDE 24: Anti-Cheat Applications]
+This paper design would help me grade student papers more efficiently. In the future, if I expand the pipeline to include analysis per answer with feedback, I could auto-grade worksheets at scale. Additionally, I'd have a quick reference of images to use for handwriting forgery tests against in-person exams, which addresses a significant problem in academic integrity—students sitting for exams when they're not the person enrolled in the course.
+
+[SLIDE 25: Music Theory Workbook Example]
+Here is an example of the music theory workbook. This is page one, and you can see the signature at the bottom. The different question areas are overlaid on top of the watermark background. There's still work to do on detecting the different answer areas and determining their point values, but this demonstrates the concept.
+
+[SLIDE 26: Conclusion]
+I never thought I would get so interested in paper design, but this has actually become a very exciting problem for me to tackle. I'm so excited about it that I will continue working on this project after this course is over. I think it has applications in my current job for automation, and I would like to use the other fruits of my labor for passion projects outside of work, including teaching and creative writing.
+
+[SLIDE 27: Thank You]
+Thank you very much for your time. Again, my name is Chris Brecken, and this has been my presentation for DTSA 5506, the Data Mining Project. If you have any questions, please feel free to email me or visit my website. I'm happy to discuss any aspect of the project in more detail.
+
+---
+
+PRESENTATION NOTES:
+- Total estimated time: 22-28 minutes
+- Pause for questions after each major section if time permits
+- Adjust pacing based on audience engagement
+- Emphasize the Five Star paper discovery as a key innovation
+- Highlight the practical applications in both professional and educational contexts

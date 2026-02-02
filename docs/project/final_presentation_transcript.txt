@@ -1,0 +1,560 @@
+Oh
+My name is...
+Reset
+- Hello
+Why didn't this Chris Brecken?
+And I'm excited to present my project for DTSA 55006 data mining project
+Today, I'll be discussing field chart OCR, which is a...
+Lisa
+Hello, my name is Chris Bracken, and I'm excited to present my project for DTSA 5506
+Data Mining Project
+Today, I'll be discussing field chart OCR, which is a system to design extract, designed to extract and digitize hand-written charts and tables
+This presentation will have--
+Provide a clear overview of the project motivation
+technical approach and evaluation plans for supervisory level stakeholders
+Let me begin with an overview of the project
+Digitizing handwriting charts presents significant challenges due to varied handwriting styles, inconsistent layouts, and noise in scanned images Manual transcription is slow in time consuming, creating substantial pain points for data accessibility and analysis
+Field chart OCR aims to automate this process by improving accuracy and efficiency, converting handwritten visual data
+into machinery
+for us
+The key challenges in digitization of hand-written charts are multifested
+Handrating is...
+inconsistent, highly inconsistent
+across individuals
+Third
+The second we encounter diverse charts
+Then chart layouts and formats and third
+Image noise from camera captures or scans introduces additional complexities
+These factors lead to difficulties in automated recognition
+Station
+the lack of standardization
+The lack of standardization required increases error rates and makes manual transcription both time consuming
+and costly
+Addressing these challenges requires robust processing
+robust pre-posting process
+robust pre-processing classification, and it was here techniques specifically tailored to 100 data
+Originally I had planned to tackle a wide variety of handwritten notes I envisioned digitizing time sheets, tables with mixed flow, and integer values, checklists, freeform writing online paper, and even student worksheets for grading purposes
+However,
+The project proves substantially more difficult than I had initially imagined As a result, I made the strategic decision to limit the digitization efforts to bar shirts
+Specifically this book
+and specifically
+Marchered specifically
+This focused approach allowed me to build out an entire end and pipeline and understand what the complete
+Get in work though, what do you look like?
+The brush rates represent an excellent starting point for several reasons First, the colors are--
+which simplifies detection. Second, the axes follow predictable straight lines, making geometric analysis
+more straightforward, there's minimal character recognition where to extract
+for data
+Finally
+Bar shirts have a very predictable and structured form
+which makes them more amenable to
+automated processing
+compared to freeform writing
+Here you can see, uh,
+- Yeah
+Here you can see the three images
+Here you can see three images demonstrating the current state
+of the preprocessing
+You can see three images demonstrating the currency of preprocessing
+The first image on the left shows the crop
+Best image
+The first image
+This represents the pre-processing stage where I was able to detect the edges of the paper and normalize it for further processing
+The center image shows the page area with different features
+Highlighting. Highlighting
+with different features highlighted
+Center
+the green boxing compasses
+Technical approach employs a modular architecture combining pre-processing classification and section models
+preprocessing is crucial because when taking pictures of pages they're not always oriented consistent
+text direction varies, paper consistency differs
+and pre-processing stage includes
+photo normalization, which standardizes the image inputs, classification identifies the chart type, in this case distinguishing birth shirts from other chart types
+Detection bottles and then
+Detection models and extracts the specific elements
+This module, our approach allows fertility detection models for different chart types
+rather than trying to handle all charts styles with the single extraction method
+Eventually, the system will integrate OCR for hand rid text recognition
+We should hand off
+to element recognition functions and information extraction functions to reconstruct charts and tables accurately The goal is to automate the extraction pipeline, significantly reducing manual effort while maintaining high accuracy for indigitizing complex handwritten visual data
+Successful, we measured using several key metrics Classification performance will be evaluated using F1 scores
+to detection accuracy when measured, how well measured, how well the system identifies [BLANK_AUDIO]
+Character error rate will assess your performance
+However,
+And finally, runtime performance will determine how well your workflow can manage high volumes of data
+These metrics will guide iterative
+It's iterative
+and permit permits and
+ensure the system means practical usability and reliability standards
+the input files were
+Check one, two, one, two, check, check, one, two, one, two, check
+- Oh
+My name is Chris Bracken and I'm excited to present my project for DTSA 5506
+See you in my name project
+Today on we're discussing field chart OCR, a system designed to extract and digitize handwritten charts
+And tables The presentation will provide a clear overview of the project
+And provide a clear
+Hello, my name is Chris Brecken, and I'm excited to present my project for DTSA 555-06, the data mining project Today I'll be discussing Field Chart OCR
+which is a system designed to extract
+and digitize handwritten charts and tables
+This presentation will provide a clear overview of the project more
+technical approach
+Evaluation Plans
+And
+timelines for supervisory level stakeholders
+Let me begin with an overview of the project
+digitizing handwritten charts presents
+significant challenge due to varied handwriting styles
+inconsistent videos
+and noise and scanned images
+manual transcription is slow and time consuming
+creating substantial pain points for data accessibility
+and analysis
+Field chart OCR aims to automate this process by improving accuracy and efficiency
+and bring handwritten visual data into machine readers
+The key challenges in digitizing handwritten charts are multifested
+First handwriting is highly inconsistent
+individuals. Second, we encounter diverse chart formats and layouts. Third, image noise from camera captures where scans introduces additional complexity
+These factors lead to difficulties in automated recognition
+in interpretation
+The lack of standardization increases error rates and makes manual transcription both time consuming and costly
+Addressing these challenges requires
+of us preprocessing
+classification and OCR techniques specifically tailored for handwritten data
+Originally, I had planned to tackle a wide variety
+and written notes. I envisioned
+Digitizing time sheets
+tables with mixed float and integer values, checklists, free form writing online paper, and even student worksheets for grading purposes
+The process...
+However, excuse me, however the project proves substantially more difficult than I had initially
+As a result, I made this strategic decision to
+digitization efforts to bar church specifically this focused
+approach allowed me to build out an entire end-to-end pipeline
+and understand what the complete data works or what it looks like
+Bar shirts represent an excellent starting point for several reasons First
+The colors used in brown shirts are easily indistinguishable
+which simplifies detection
+Second, the axes follow predictable straight lines
+Making geometric analysis more straightforward
+Third, there's him
+>> I'm a little character recognition
+prior to extract the core data Finally
+Marchets have a very predictable instruction form, which makes them more amenable to animated processes
+compared to free form writing
+This image shows the page area with the different features
+How edit in the green?
+But you can see the bar chart area, while the red features are reused for corner detection and the blue features for port page orientation
+That one
+Here you can see three images demonstrating the current state of the...
+processing pipeline
+The first image on the left
+It shows the cropped and normalized image This is the final
+project product
+Final stage
+I was able to get to
+I was able to detect the edges of the paper and normalize it
+for the processing
+The image on the right shows manual measurements
+of it
+camera picture that I'd taken, and that were used to validate the sizing, cropping, and rotation
+and scaling to make sure that also that scaling was consistent
+with actual paper dimensions
+And uh...
+image in the middle
+features
+And overlay
+Now, digital
+paper on top of a camera picture showing how I wanted to orient it
+and what features I was probably
+Back forward
+There were a number of--
+works that I read in order to accomplish this
+and the project builds on several important papers in the field First
+ChartOSER data extraction for chart images via a deep hybrid framework combines deep learning and rule-based methods for extracting data from computer-generated reports
+Automation, classification analysis, and redesign of chart images addresses extracting data from computer reports for data during a realization of poorly designed charts
+Chartsense, interactive data interaction
+Extraction from chart images combines human in the loop methods
+Towards automated evaluation of handwritten assessments, deal specifically with the OCR for grading handwritten assessments, which is directly relevant to my work
+from pixels to inside
+on automatic chart understanding in the era of large
+That paper provides a comprehensive survey of chair comprehension methods using foundational models Finally, improving handwritten mathematical expressions which I found particularly interesting
+Excuse me
+Improving handwritten mathematical expression recognition by integrating network with transformer and diffusion-based auto-data augmentation
+Wish I found
+particularly interesting, focusing
+on focuses on translating handwritten mathematical equations into latex, first insight into handwritten recognition techniques
+The technical approach employs a modular architecture combining preprocessing classification and detection models Preprocessing is crucial
+because we're taking pictures of pages
+text direction varies and paper consistency differs
+preprocessing stage includes photo normalization, which standardizes the image
+and then classification identifies the chart type in this case distinguishing bar charts from other types
+Now, detection models then extract specific elements This modular approach allows for tailored detection models for different chart types
+rather than trying to handle all chart styles with a single extraction method
+Eventually the system will integrate OCR for handwritten
+text recognition, which will hand off to an element recognition function
+information extraction functions to reconstruct charts
+and tables accurately
+The goal is to automate the extraction pipeline significantly reducing annual effort maintaining high accuracy
+Indigitizing complex handwritten visual data
+The data sources included
+three main types first, camera capture images from my phone
+or of handwritten barchards
+Second, corresponding digital charts created using Python and
+You'll be your note
+and you're going to know books to see if the service ground truth And third,
+Comma-separated value files
+by containing tabulated data that I had synthesized using
+Python and Jupiter
+to give me the data sets
+Have
+Um
+Four by hand written
+and...
+here
+generated brochures
+I synthesized the data using, sorry, I've already said that
+- So
+instead of going out and searching for a bunch of different
+Barcher
+and try to copy them and generate the data I ended up just automatically generating synthesized data
+- I would
+synthesize the comma-separated list
+Then I would
+converted into a...
+computer barter with Python
+Matt Fott-Lid, we're C-Worn And...
+After that, I would
+use the concept related list without
+the computer generated image to
+and draw these bar charts
+The...
+I thought it would be easier to scan them
+because I wanted to skip the normalization steps
+But when I saw the price of the Mobile Scanner
+Now I decided to work on the higher steps instead So here you can see these are...
+three sample images
+of
+at the bottom of the left-hand corner. These are three sample images of
+Android and charts, and pictures taken in various annuals Some of them fuzzy, some of them off-angle on purpose I was some
+I was...
+doing these in order to stress tests
+Um, then
+paper normalization process. But because I had saved money on the scanner, I decided to buy gel pens
+I went to Walmart and that was a very fortuitous trip
+While in the stationary aisle with your pens, I stumbled upon five stars
+latest paper
+I was a skit
+This I've already shown these
+It's...
+It's designed to be used with their study app and I was instantly fascinated by the features that make it this an effective medium for digitization
+I spend a day modeling the paper and my own graphics program escape
+that I've been using, and the most interesting features for me as a data scientist for the quick calibration squares in the corners of each page
+And, um,
+There were a few other features, but specifically those ones
+So here is an example of the paper that I finished modeling
+You can see that, um,
+There are
+these quick calibration squares
+Each one of them is distinct from one another
+And, um,
+distinct within themselves
+From a computer vision perspective, these four QC squares, each measuring roughly half a millimeter
+The border is half a millimeter thick and each of the...
+Squares is about a millimeter thick
+in a that are arranged in a six by six pattern of black and white cells
+And looking at them intuitively, I already knew
+then uh
+These were probably chosen for...
+to avoid the axis of symmetry
+Here you can see in this image that
+the regular square has four axes of symmetry, meaning if you were to cut
+The...
+shape along that line and then fold it back over itself
+you will see both sides of
+of the axes of symmetry are the same
+Um
+And, if we go on to...
+of it
+the QC squares
+Anyway, you cut them. They're just thing for themselves and I thought maybe it was a way to save some information and making five stars
+only work with a certain paper or vice versa, but for our intents and purposes
+You still?
+The signature and across all the paper in the ring, it was the exact same
+And I bought several rings so across all the--
+Reams of paper
+These were the four QC squares
+So I took one apart and expanded it so you can see this is one that has been subdivided along
+four regular axes of symmetry And you can see that top to bottom, left to right,
+on the diagonals, none of the...
+Axies of symmetry are...
+along those regular axis axes
+And the squares are not at least this one, you can go back
+- Good
+End
+fact check me
+for all four of them are distinct
+So I labeled the front page as page one and the back page is page zero
+Mainly because
+I want to be...
+But I wanted a title page to be
+That would mean that every on page was page one and every
+even as it was it was a
+it was a trivial choice as an either scientist, but that's what it shows
+So, page zero and page one
+the top left, qualities
+their quick calibration squares are the same
+and you can see that they're featured in the
+top left
+Image
+The top right
+Sorry, page zero and page one share the same bottom right
+And then page zero
+and page one have
+Different
+right and bottom left
+from each other, but within the page they're the same
+So for each page you'll have
+Three patterns
+and...
+one of those is to--
+Thanks
+per page
+- It is
+They're just every how they
+of the quality squares semia
+down a particular rabbit hole which I'll get to in a moment The other calibration feature that I thought was interesting was these triangles along the side
+of the page usually on the spine
+That
+Bye
+You don't even--
+that I can guess if anything before it would be to calibrate the directional
+H
+The original paper was graph paper
+You could have written
+vertically or horizontally, depending on your notation of your notebook
+And, um,
+So I...
+- Bye
+I didn't really use these triangles, but I put them in my model
+Anyways
+because I wanted to use them at the later date if I ever needed
+So...
+Um...
+And just on just a short note about these triangles, I measured them with a compass in the
+The triangles are, I saw, slaves, and not equal at all
+That means that there will always be a launch
+Um
+That helps in detecting the...
+for orientation there is
+I think...
+that counted when there was like 43 of them per page
+all arranged in the same column
+But I got really...
+worked out above this paper and as I was modeling
+- Yeah, I ended up
+having a few
+moments to myself and so I ended up generating a
+the graph paper which is the normal
+paper And
+blank paper just in case I needed it
+dot matrix would be a good idea and then of course it's like war games
+I did
+And so I came up with my own paper for
+and drawing workings in it
+that line paper for my own creative writing
+At the time of making this presentation, I didn't even--
+- Yes
+a musical staff paper for digitization of musical notes
+which is not featured here, but...
+It's probably one of the nerdiest things I've ever done
+So evaluation techniques
+[Music]
+measurement of acts, uh,
+For evaluation techniques, the page corner detection metric was designed to find accuracy for detection
+- Corners, the metric uses
+the product of area and salinity
+And specifically,
+Optimizing for the lowest value
+I don't know if you can see the paper
+with the different corners highlighted
+For example, the top right corner was detected with a 72.2% accuracy
+I wasn't particularly pleased with
+Um...
+(groans)
+The rule-based detection, I ended up
+using K nearest neighbors
+the color and pattern detection and I hard coded
+the Qc square patterns as 0s and 1s into the...
+Python program
+But in the future, I would like to make this a deep learning assisted function
+'Cause
+I think that's where deep learning will shine
+However,
+Generating images of tiny little QC squares that are...
+(laughs)
+I enjoy
+five millimeters
+Wide and ties
+tedious so I didn't end up implementing that but I definitely plan to in the future
+(mumbles)
+(mumbles)
+The problem with his rule base
+And...
+Detection is that
+It breaks down if--
+and the whole pipeline breaks down if
+the program can detect
+more than...
+All right
+any less if it can only detect
+It has to detect four
+When I was...
+They're auto-grapping and auto-rotating with them
+My program
+And images were coming back, you know, the stress test images that I referenced earlier
+It was coming back with three
+corners and that was causing the
+Croping to...
+Slice and SKU
+The paper in a way that the computer would...
+No, no
+What I want to do with
+Uh...
+Yeah, I think that...
+As you can see, the areas are quite large in the corner detection
+The deep learning would definitely help with the pattern detection
+Timeline, it's a boy
+So my original timeline
+um was quite optimistic and I had planned to finish annotating and labeling the initial data set by week one
+- Bye
+completed that
+I implemented normalization and although it's not as robust as I'd like, it works on the optimal
+sample set
+I plan to integrate baseline handwriting OCR and a chart classifier, but I did not get to the chart classification yet
+at the time of this presentation, the subsequent weeks
+We're intended for deploying element detectors and table recognizers checking for data parity with the CSV tables
+integrating semantic assembly and running quantitative
+However, now that the course is
+- Over
+I definitely intend
+Continue this work
+- I am now
+Bob Haver
+Um...
+As you can see,
+In this next one, I have updated the timeline to include
+each image as its own and i don't know if you guys can see all of those lines but
+Anyways
+I separated each of the elements out into its own
+timeline so that I can measure
+roughly where it was in the
+Thank you
+from development to production I got the furthest along in page design
+Let's see, let's
+and computer vision functions are still...
+I was still testing and developing, and then these antique functions, which I'll talk about later, were a new thing
+They came out out of...
+necessity and well
+necessarily, necessarily, anyway
+And then the sample synthesis was good
+It was nonsensical data
+fake datasets like
+favorite genre of music for third year students
+Or...
+Things of the way I can
+Maybe it would be helpful to have real world data
+It would definitely be helpful
+Yeah, for stress testing to have more than one
+author for the handwritten
+and then page cropping and rotating it, yeah, I got stuck in development
+because the configuration functions were so
+I'm still working on the calibration
+I can normalize the --
+on page 5
+I will definitely continue working
+work on
+Ooh wait!
+There's more!
+We'll teach you my music theory and putting together a
+for her
+I was visited by my news, so I would like to present to you
+They follow on
+idea that I had after this
+- Did I?
+So do my name, pipeline
+project. First
+Using Python, I created a PDF maker that signs each page of a book
+or PDF with a watermark so that it can be analyzed for tampering or cheating
+The new features that I have added to the page
+includes this barcode, which you can see at the very bottom of the page
+which is an encoded UUID
+Ah
+and RGB
+which is in the top left and if I move myself down
+We're over
+You can see that in the top right
+is also Grayscale Calibration
+taking images
+with different color pens or pencils, etc
+will be made easier in my opinion
+by having these quick calibration
+or at least calibration
+Yeah
+items and of course
+I'll go on to talk about how the UID could be useful in that particular task
+So some information can be stored in the barcode, like page orientation, answer areas, grades, etc This is, this is,
+fully automatic part of
+the data pipeline and
+What it does is it takes a PDF and then...
+Counts the pages
+creates a EUID and then signs the page with
+that UUID with barcodes so that when you are scanning the image in
+and once it is calibrated
+why it's cropped and scaled
+can use the barcode to then detect things like
+answer areas, or paper tape, et cetera, that I've listed above
+if I were to expand this pipeline to include analysis, I could get
+I can get a large language model to
+process some of these answers once OCR is done and give feedback or do marking
+And...
+If this was used over the length of a semester with
+handouts from students, it would be useful in
+hand-drating forgery tests to make sure that people are writing
+their exams in person
+Here's an example of page two you can see that I've just got some questions and some answers that are overlaid
+On top of the...
+watermark
+Another one
+And fine
+So
+Hi, never thought
+I would get so nerdy about paper, but it's a very exciting problem for me to tackle
+I've got so many uses for it in my job where I'm not allowed to have
+Bye
+company data on the internet
+to use artificial intelligence to help
+Automate some of my workflow
+It would be really useful to have
+Things like...
+Time sheets for
+my notes for the day or to do lists
+processed and then added to my knowledge base, so, you know, network drawings, etc The things that we do regularly for
+for work
+And so, um...
+I mean, this has definitely been
+A springboard for me, I will definitely
+continue to work on this because
+It continues to...
+do back into the work that I do
+- Thank you very much for your time If you have any questions both
+The field chart OCR is free to reach out to me next time email
+I'm using my web page
+for you
+probably find me on the course, uh,
+- I'm sorry for it, I'm dead
+MSDS Slack channel
+five of you under the same name
+Again, my name is Chris Brecking
+And this has been my presentation for DTSA 55006
+Thank you very much for your time
+Here goes the miss

@@ -1,0 +1,311 @@
+{
+  "bar_single_001.csv": {
+    "table_type": "single_series",
+    "header": [
+      "Category",
+      "Value"
+    ],
+    "source_file": "sample_table_001.csv",
+    "primary_label": null,
+    "secondary_label": null,
+    "notes": "Synthesized single-series bar chart table."
+  },
+  "bar_single_002.csv": {
+    "table_type": "single_series",
+    "header": [
+      "Category",
+      "Value"
+    ],
+    "source_file": "sample_table_001.csv",
+    "primary_label": null,
+    "secondary_label": null,
+    "notes": "Synthesized single-series bar chart table."
+  },
+  "bar_single_003.csv": {
+    "table_type": "single_series",
+    "header": [
+      "Category",
+      "Value"
+    ],
+    "source_file": "sample_table_001.csv",
+    "primary_label": null,
+    "secondary_label": null,
+    "notes": "Synthesized single-series bar chart table."
+  },
+  "bar_single_004.csv": {
+    "table_type": "single_series",
+    "header": [
+      "Category",
+      "Value"
+    ],
+    "source_file": "sample_table_001.csv",
+    "primary_label": null,
+    "secondary_label": null,
+    "notes": "Synthesized single-series bar chart table."
+  },
+  "bar_single_005.csv": {
+    "table_type": "single_series",
+    "header": [
+      "Category",
+      "Value"
+    ],
+    "source_file": "sample_table_001.csv",
+    "primary_label": null,
+    "secondary_label": null,
+    "notes": "Synthesized single-series bar chart table."
+  },
+  "bar_single_006.csv": {
+    "table_type": "single_series",
+    "header": [
+      "Category",
+      "Value"
+    ],
+    "source_file": "sample_table_001.csv",
+    "primary_label": null,
+    "secondary_label": null,
+    "notes": "Synthesized single-series bar chart table."
+  },
+  "bar_single_007.csv": {
+    "table_type": "single_series",
+    "header": [
+      "Category",
+      "Value"
+    ],
+    "source_file": "sample_table_001.csv",
+    "primary_label": null,
+    "secondary_label": null,
+    "notes": "Synthesized single-series bar chart table."
+  },
+  "bar_single_008.csv": {
+    "table_type": "single_series",
+    "header": [
+      "Category",
+      "Value"
+    ],
+    "source_file": "sample_table_001.csv",
+    "primary_label": null,
+    "secondary_label": null,
+    "notes": "Synthesized single-series bar chart table."
+  },
+  "bar_single_009.csv": {
+    "table_type": "single_series",
+    "header": [
+      "Category",
+      "Value"
+    ],
+    "source_file": "sample_table_001.csv",
+    "primary_label": null,
+    "secondary_label": null,
+    "notes": "Synthesized single-series bar chart table."
+  },
+  "bar_single_010.csv": {
+    "table_type": "single_series",
+    "header": [
+      "Category",
+      "Value"
+    ],
+    "source_file": "sample_table_001.csv",
+    "primary_label": null,
+    "secondary_label": null,
+    "notes": "Synthesized single-series bar chart table."
+  },
+  "bar_single_011.csv": {
+    "table_type": "single_series",
+    "header": [
+      "Category",
+      "Value"
+    ],
+    "source_file": "sample_table_001.csv",
+    "primary_label": null,
+    "secondary_label": null,
+    "notes": "Synthesized single-series bar chart table."
+  },
+  "bar_single_012.csv": {
+    "table_type": "single_series",
+    "header": [
+      "Category",
+      "Value"
+    ],
+    "source_file": "sample_table_001.csv",
+    "primary_label": null,
+    "secondary_label": null,
+    "notes": "Synthesized single-series bar chart table."
+  },
+  "bar_single_013.csv": {
+    "table_type": "single_series",
+    "header": [
+      "Category",
+      "Value"
+    ],
+    "source_file": "sample_table_001.csv",
+    "primary_label": null,
+    "secondary_label": null,
+    "notes": "Synthesized single-series bar chart table."
+  },
+  "bar_single_014.csv": {
+    "table_type": "single_series",
+    "header": [
+      "Category",
+      "Value"
+    ],
+    "source_file": "sample_table_001.csv",
+    "primary_label": null,
+    "secondary_label": null,
+    "notes": "Synthesized single-series bar chart table."
+  },
+  "bar_single_015.csv": {
+    "table_type": "single_series",
+    "header": [
+      "Category",
+      "Value"
+    ],
+    "source_file": "sample_table_001.csv",
+    "primary_label": null,
+    "secondary_label": null,
+    "notes": "Synthesized single-series bar chart table."
+  },
+  "bar_grouped_016.csv": {
+    "table_type": "grouped_series",
+    "header": [
+      "Group",
+      "Subgroup",
+      "Value"
+    ],
+    "source_file": "sample_table_002.csv",
+    "primary_label": "Section 1/Section 2/Section 3",
+    "secondary_label": "Circle/Square/Triangle",
+    "notes": "Synthesized grouped bar chart table."
+  },
+  "bar_grouped_017.csv": {
+    "table_type": "grouped_series",
+    "header": [
+      "Group",
+      "Subgroup",
+      "Value"
+    ],
+    "source_file": "sample_table_002.csv",
+    "primary_label": "Green/Blue/Yellow/Red/Purple",
+    "secondary_label": "Week 1/Week 2/Week 3/Week 4",
+    "notes": "Synthesized grouped bar chart table."
+  },
+  "bar_grouped_018.csv": {
+    "table_type": "grouped_series",
+    "header": [
+      "Group",
+      "Subgroup",
+      "Value"
+    ],
+    "source_file": "sample_table_002.csv",
+    "primary_label": "East/West/North",
+    "secondary_label": "Red/Green/Blue",
+    "notes": "Synthesized grouped bar chart table."
+  },
+  "bar_grouped_019.csv": {
+    "table_type": "grouped_series",
+    "header": [
+      "Group",
+      "Subgroup",
+      "Value"
+    ],
+    "source_file": "sample_table_002.csv",
+    "primary_label": "Song 1/Song 2/Song 3",
+    "secondary_label": "Low/Medium/High",
+    "notes": "Synthesized grouped bar chart table."
+  },
+  "bar_grouped_020.csv": {
+    "table_type": "grouped_series",
+    "header": [
+      "Group",
+      "Subgroup",
+      "Value"
+    ],
+    "source_file": "sample_table_002.csv",
+    "primary_label": "Freshman/Sophomore/Junior/Senior",
+    "secondary_label": "Sunny/Cloudy/Rainy",
+    "notes": "Synthesized grouped bar chart table."
+  },
+  "bar_grouped_021.csv": {
+    "table_type": "grouped_series",
+    "header": [
+      "Group",
+      "Subgroup",
+      "Value"
+    ],
+    "source_file": "sample_table_002.csv",
+    "primary_label": "Europe/Asia/Africa",
+    "secondary_label": "Mild/Spicy/Hot",
+    "notes": "Synthesized grouped bar chart table."
+  },
+  "bar_grouped_022.csv": {
+    "table_type": "grouped_series",
+    "header": [
+      "Group",
+      "Subgroup",
+      "Value"
+    ],
+    "source_file": "sample_table_002.csv",
+    "primary_label": "A/B/C",
+    "secondary_label": "Circle/Square/Triangle",
+    "notes": "Synthesized grouped bar chart table."
+  },
+  "bar_grouped_023.csv": {
+    "table_type": "grouped_series",
+    "header": [
+      "Group",
+      "Subgroup",
+      "Value"
+    ],
+    "source_file": "sample_table_002.csv",
+    "primary_label": "Sakura/Rose/Tulip",
+    "secondary_label": "Blue/Red/Green",
+    "notes": "Synthesized grouped bar chart table."
+  },
+  "bar_grouped_024.csv": {
+    "table_type": "grouped_series",
+    "header": [
+      "Group",
+      "Subgroup",
+      "Value"
+    ],
+    "source_file": "sample_table_002.csv",
+    "primary_label": "A/B/C/D",
+    "secondary_label": "Single/Double/Triple",
+    "notes": "Synthesized grouped bar chart table."
+  },
+  "bar_grouped_025.csv": {
+    "table_type": "grouped_series",
+    "header": [
+      "Group",
+      "Subgroup",
+      "Value"
+    ],
+    "source_file": "sample_table_002.csv",
+    "primary_label": "Quarter 1/Quarter 2/Quarter 3/Quarter 4",
+    "secondary_label": "1st/2nd/3rd",
+    "notes": "Synthesized grouped bar chart table."
+  },
+  "bar_grouped_026.csv": {
+    "table_type": "grouped_series",
+    "header": [
+      "Group",
+      "Subgroup",
+      "Value"
+    ],
+    "source_file": "sample_table_002.csv",
+    "primary_label": "Green/Blue/Yellow",
+    "secondary_label": "Low/Medium/High",
+    "notes": "Synthesized grouped bar chart table."
+  },
+  "bar_grouped_027.csv": {
+    "table_type": "grouped_series",
+    "header": [
+      "Group",
+      "Subgroup",
+      "Value"
+    ],
+    "source_file": "sample_table_002.csv",
+    "primary_label": "Batch 1/Batch 2/Batch 3",
+    "secondary_label": "Alpha/Beta/Gamma",
+    "notes": "Synthesized grouped bar chart table."
+  }
+}

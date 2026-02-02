@@ -1,0 +1,180 @@
+Hello, everyone,
+today we're going to finish our course project with the final
+report review, right? So earlier, right, as we're wrapping
+up the project and kind of finishing it with the final report, we want to make
+sure we do a good job in terms of one summarizing and presenting the key
+findings of the data mining project. But also we want to look
+at the overall process and see how we can improve it further, okay? So by now, you should have submitted
+your final report, right, that's include both the final presentation slides and
+also your final project report, okay? So those are just the updated, expanded
+version from your checkpoint slides and report, okay? As I have said, when you are finishing and
+wrapping up the project, so the key aspects to highlight
+is about the key accomplishments, what has been accomplished in the project,
+and also what has been
+learned in this process. Okay, so this is two parts,
+the raw content or the core content of the project itself. But also it's about the procedure like
+experience and the learning, okay? So as a reviewer, so we'll be looking at,
+again, there's two pieces of submissions. So one is the final presentation slides, and also the other one is
+the final project report, right? So we start with the slides. So the slides should work as actually
+very good summary of the project, okay? So as a reviewer [COUGH] So
+we pick the slides starting point, right? So first of all, say just pay attention
+to how many slides you are seeing, right? Because as I said, by now,
+when wrapping up our data mining project, we'll talk about roughly 15 to 20 slides. So when you're looking at
+a particular submission, just see whether the content or
+the number of slides is reasonable. It's not a hard limit, but as we said, we don't want this to be too
+many because the goal is for the slides really to provide as a summary
+rather than all the details, right? But you don't want to dive to be too few,
+right, because too few, then it may not convey all
+the important information. So it may be kind of missing some
+key pieces or it may be kind of unclear to the reviewer in terms of
+some aspect of the project, okay? So just kind of pay attention to
+the overall kind of organization, the slides of the names, the slides, okay? The next piece is the executive summary,
+right. So this is very important, as I said,
+this is the final stage, right? So the project has been accomplished,
+right? And then the executive summary, it's usually one to two slide here
+should really have a very compact, but also to the point representation
+of the core pieces of the project, what has been done,
+what are the key findings. That's really what we want, right? Okay, so just make sure to check out
+the executive summary of the slides and see whether the author has done a good
+job conveying the core pieces, okay? And then of course, you get to
+some of the more kind of standard components of the slides because
+the slides should at least give you concise about a good kind
+of summary across those aspects. What is the problem statement,
+what is some of the related work and in a way highlighting the contribution
+with this work and then specifically, what has been done in the work itself, what
+core tasks have been accomplished, okay? And how the evaluation is done and
+how the results, what are the key results. So these are the most important part and
+the timeline, just to give you a better sense of how
+the project was carried out, okay? Again, style, right? We have talked about this kind of many
+times, we keep reminding people, right? So as a reviewer,
+when you're looking at the slides, know that this is the final
+presentation slides, right? Should it be like self contained? So that means should have all the
+necessary information in it and it should really highlight the most significant
+contributions of this work, okay? So as you look at the style of the slides, see whether there are things you can see
+that worked particularly well, right? You can really comment on, say, yeah,
+I really like it how this organized and clean or I like how this picture
+really gives a good overview. Or I say, this slide is a bit busy,
+like there's too much text, or the color is a little bit too much or
+something. So just try to kind of pay attention to
+the overall side of the slides, okay? All right, and then, of course,
+we're going to look at the full report. So the slides hopefully should
+give you a good understanding of the overall project, okay? Now, when you're reading the final report,
+right, this workforce is longer, takes a bit more time, but it has
+hopefully all the valuable information that you're trying to
+capture as a reviewer, okay? So what do we so start? So said by now they should all be okay
+with in terms of the ACM proceedings and template, we do want to pay a little bit
+attention to the kind of page length, right? So 5 to 10 pages is the guideline we
+provided, it's not a hard limit, but you want to see whether the length
+of the report is appropriate, okay? So typically we're not looking for
+something that's too long, right? As I said, if it's too long that it
+provided too much information and people actually may not spend that
+amount of time to read it, right? So it should be reasonably concise, it
+should provide all the necessary pieces, but without being too long, okay? But of course, on the other end,
+if it's too short, then apparently it may not include some
+of the core information there, right? So just kind of as you're reviewing
+the report, pay attention to the page lengths and then just kind of generally
+have a bit of understanding about whether the names of the report is
+appropriate for the project itself, okay? And then of course we'll get
+to the specific aspects, okay? Abstract, the abstract should
+be a very good summary, right? It should be kind of really a few sentence
+each, just capturing the problem, study, the core contributions and
+also the key results, right? So it shouldn't be long,
+one to two paragraphs is what we need and should really give you a good kind
+of summary of this project, okay? If it's vague, it's not clear or it's too long,
+all those things you can note down, right? Because that's basically helping
+others to improve this further, okay? Introduction, so this is the final report,
+of course, as a reviewer, you may be seeing the project for
+the first time, right? But just make sure as you're
+reading through the introduction, should really have a convincing story,
+right? Because as successful project, you want to set the stage by really
+stating clearly what the problem is, why this problem is important to
+address limitation of existing work and also what is the contribution for
+this particular project. So you want to make sure that
+is all clear as you're kind of progressing through the report, okay? So this is the introduction part,
+it's very important, should really give you a good sense
+of the scope of the project, okay? And then you read the related work
+section, so this is the one the author should really do a good job kind of
+highlighting related work, right? So we have said that it's usually good
+to kind of group those related work in different paragraphs so
+with different focuses. But then it is important to say how this
+project builds upon prior work, right? It cannot be just a listing of few
+prior work or they are all related, but they're not talking about why
+specifically it's related or how the author is
+building upon those work. So you want to see that aspect, right? So not just the list of
+things that's relevant, but also how that is contributing or
+like helping the project itself, okay? Then the core section, proposed work, so of course our project
+can be very different. So there's really no how to say
+a checklist in terms of for say you have to do one, two,
+three, four, five, right? But instead you do want to kind of think
+about the whole pipeline, we did this for our whole discussion about proposal
+checkpoint and the final report, right? You want to really see
+whether the project is carried out throughout
+the whole data mining pipeline. See whether there's a good discussion
+about the data, the tools that's being used, and also the specific
+steps in terms of getting the data, understanding the data, pre-processing,
+managing our data warehousing part, right? And then when it gets to the modeling
+angle, see whether it's clear what problem they are looking at,
+what kind of methods they're using, why this particular methods, and just
+be clear in terms of the design, right? So all those need to be
+clear to you as a reviewer. Of course, if there are pieces that's
+kind of missing or it's not clear, then note those down,
+because that can be important, actually can be very valuable feedback for
+the author, okay? Now you get to the evaluation section,
+right? So as a reviewer, so you really want to see whether the evaluation is
+carried out effectively, right? So that includes a good evaluation,
+kind of setup, and also the evaluation metrics if
+there's any good comparison. But also the core part is
+about the results, as I said, evaluation section is where you present
+some of your key results, right? So see whether the results are convincing. So meaning that the way it's set up and
+whether it's presented, it's actually clear to you and actually has some
+interesting kind of findings there, right? And also another important piece
+in the evaluation section for the reviewer to look at is that whether
+there's a good kind of reasoning, right, you want to see the author
+actually does a good job, like interpreting the results instead of
+just presenting the results as is, right? So you want to see that there's
+good reasoning behind the results that's being presented, okay? And then discussion section. So I usually personally really enjoy
+reading the discussion section because I think that's where you actually see
+how the project has progressed and also kind of really the thinking
+behind the scene thinking that goes into the whole project, right? So you want to really read about what
+the author's view in terms of how the project was carried out,
+the timeline, how things worked out, how there's particular challenges and
+how they address those challenges, or how things had to be adjusted or changed
+because of certain circumstances, right? So this is actually very useful for both
+the author in terms of self reflection. But as a reviewer,
+I think it's also important for the reviewer to be able to see
+how the project progressed and also actually learn for
+themselves what is some good lessons, what worked, what didn't work,
+what could be better? So the discussion section actually
+always is actually very interesting to read about. Okay and then conclusion. So this section usually is not long,
+right, probably one or two paragraphs, but actually should be really effective in
+terms of one providing good summary, what is this project,
+what has been done, but also really highlighting the key findings,
+say, wow, this is repetitive. But from the reviewer's point,
+you would appreciate, right? A good starting point in the abstract,
+talk about what this is and then the summary or the conclusion really
+gives you another kind of review of what has been accomplished. So that's very important, okay? But also there's one more piece we'll
+talk about in this section, right? That's the future work discussion, okay? So as a reviewer, you want to be
+able to kind of really pay attention to that part of the discussion and
+see whether in the conclusion there has been some discussion
+of a future work, right? And see whether the author has
+done a good job in terms of kind of visually what can be done in terms of
+future improvements or just more analysis. So see whether there's some
+kind of good thinking goes into that paragraph talking about further
+improvements of the project, okay? That also is always actually a fun
+paragraph to read as well because that's really talking about
+the vision of the author after having accomplished the project and
+now have gained a lot, like a much better understanding
+of the project, okay? One last thing, so
+that's the references section. So as you're kind of wrapping up
+the report, you're reading it, just make sure you check
+the references quickly. See whether they're kind
+of missing references or just like things that are not
+correct in terms of formatting or missing information in
+the particular references. Those are about style, but also it's
+about conveying the message, right? Because if you're providing a reference, reference mean that people
+should be able to look it up and get that particular article or particular
+paper or a tool, whatever, right? So you want to make sure
+that is actually correct. So from the reviewer's point of view,
+of course, you don't need to hand check each one, but
+as you're glancing through the references, just make sure it has all the proper
+information incorporated with them, okay?

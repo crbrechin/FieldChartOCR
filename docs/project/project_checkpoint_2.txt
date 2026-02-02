@@ -1,0 +1,270 @@
+Starting points. We were just reviewing all the
+different pieces. We went through this
+for the proposal stage. Right now for the checkpoint, we look out at the
+same guideline, but now see whether you have more concrete things
+that are more like a better idea in
+terms of what you can coach into each
+of those sections. Title. As I said, we want to just
+always a good title. But maybe at the beginning, you may not have as a
+clear idea of what you want to do and now as you progress further
+with your project, you still cannot have some specified and would
+actually change my title. This could be subtle changes or most substantial.
+Either way is okay. But what we want is out
+of your project title is concise and informative title that really conveys the
+key idea of your project. You may have started with a reasonable good product
+like project title. But as you are writing your
+protect people and also think about whether you can improve
+your code on a little bit. Because ultimately you
+just wanted people to hear your title and remember it of course, but
+also understand. What you're trying to do in
+that particular project? Abstract. This is the
+executive summary, as I said. It's one or two paragraphs long, and they'll really just provide a good summary of your project. If you look back at what you wrote for your proposal stage, we have some saying
+been a more of a just planning things out and a bit of a vague or
+even like there's some specifics on
+now to spelled out. Right now, just take
+that version and then revise it so that you have, hopefully like more
+concrete description. But still it should be concise. The plan is not to have the abstract spit out all
+the technical details, but rather is about
+highlighting. But what is project about, what you're trying to
+accomplish and then if you have some information or
+details already, what will be the key findings? Because started
+putting some of that. Then introduction. This is the main intro section. We listed right there
+like four key components. What is the problem? Why
+is this problem important? What are the new mutations
+of existing work? Also what is your
+potential contribution? Take some time, read what
+you have written before for your proposal and then
+of course, update it. Or you could say, that's
+still stays true. Whatever I wrote for the
+proposal is still good. I'm fine. That's great. But if you see ways to
+refine your description, you may have some more concrete, like understand the problem
+or you may have learned slightly better
+justification for the importance of the project. Also you may have identified
+some other related work that also may require some update in terms
+of the new mutation. But designing solutions and
+of course, your contribution. As you can have a better understanding of what you're doing for your project, what you could accomplish
+while you may also be able to update your contribution
+or component. That's the introduction section. Related work section.
+This is a way of course, talking about what has
+been done already. We talk about how you want to put them into
+different categories. It's easier to read a user
+like a one paragraph on maybe one particular
+topic or one focus. Also the important part is about how you work differs and abuse all palm
+frond those prior work. What do you don't
+want it to mention, this is what has been done and what I'm
+doing is really just a repeating or they're
+just falling exactly what they have done and just come up with
+doing that for myself. That's not particularly helpful. It's a useful in
+terms of learning. But we want to see that you're
+building upon prior work. That is how you
+show the value of your project and show the
+contribution of your work life. It doesn't have to be
+substantial contribution. But you want to be able
+to really think about how your work life at something new to what
+has been done already. Now in terms of updating
+for the checkpoint stage. Well, whatever you
+have written in the work session
+may still apply, but you may have
+things you want to add or fans you want to
+adjust or I say, since I'm changing
+my projects study so this is maybe
+not as relevant, but instead I'm just
+adding something else or I have found a new piece of unrelated work which
+is quite irrelevant. I'm going to add a data
+in. All those are good. Just basically update. You don't have to rewrite
+the whole section. You probably have some
+good content already. Read more about refining it was any new
+information you have. Then proposal work. But this is of course section. By now, you may decide, maybe that's too big a section
+maybe I can separate it into subs Marco section,
+which is all fine. But this is really just talking about what you're trying to do. Again, you have your
+proposal report. You have your initial plan of
+what you're planning to do. At this stage, you're just putting in more details
+of the product like, I now have more information
+about the datasets. I'm going to just explain
+specifically what data I have and what attributes they have and how big are
+they and all that. Or if you actually
+collected data on the fly, then you also can write
+a little bit more about your data
+collection process. Or the tools you're using. You may have, can
+identify new tools or you have change of [inaudible] I originally thinking
+about using this tool, but turnout wasn't
+particularly useful, so I'm now trying something new. All those are good, but
+this is just update of description of datasets tools. But then the main tasks, this is where you can
+actually hopefully add in some of the details as you
+progress into your project. As we will talk about, like
+when you have your data. Apparently you can do some initial statistical
+analysis so you can report to write
+sum over the size, how many dimensions and
+maybe the distribution histograms scatter plot,
+whatever visualization. If it's a temporal, some
+kind of spatial information, or some kind of all heatmap. Let's think about different
+ways to read it to convey some of the key characteristics
+of your dataset. Also, like preprocessing, warehousing, right side of
+the stage, we're preparing. Actually a lot of real-world
+projects really call for a lot of effort in terms
+of getting the data ready. You may be dealing
+with missing values what do you do with
+the missing values, figure things out, or if you're merging
+different datasets, do you see how you
+actually maybe describe how you're
+preparing the dataset. If you have done
+any normalization, or you have done
+some data selection. You are selecting dataset
+for different scenarios. All those are useful. Also you are to say how I
+do the data warehousing. Say, I have initially those multiple CSV
+files and now are organized into a
+database or have some way of managing
+all the data. It's easier for me to query
+the different subsets. All those are you
+can write into as you are making progress
+because this is important. You are describing
+what you're doing. But also important
+is that you're not just describing or
+you do 1, 2, 3, 4, because it's not
+written as more like a report that somebody would fall on repeat your step. You want to add
+in the reasoning. I'm seeing this in my dataset or I'm trying to tackle
+this particular problem, and this is why I choose
+the method to do it. You're basically in a way
+documenting not only the steps, but also why you're doing it. Then of course the
+specific questions, the patterns and the modeling
+you're trying to do. There are many approaches. Again, the focus is
+about why you're choosing this method or
+this certain method, and why you think
+that they would work, and then just to
+provide your reasoning and provide some of the details
+about what you're doing. In order to explore particular patterns or
+building particular models. And then of course, evaluation. By now hopefully you have
+something more concrete. Remember, for the proposal stage or
+say so totally fine, you're really talking about January in terms of how
+you plan to evaluate. Think about the metrics, and now do you think that
+those metrics still apply? Or do you think that you
+have some maybe slightly different or you want to add the metrics you
+want to consider? These are all fine, don't
+worry about I have to say, or I change it or I had to come up with
+something different. That's okay, that's
+how we learn, and that's how a
+project progresses. But make sure you add in better reasoning about
+why you're adding this particular metric or why you're removing a particular metric
+because it doesn't apply. And then does
+experimental setup. By now, hopefully you have your data ready
+and you may have some color preliminary exercise in terms of trying
+something out. Just see whether you are
+experimental setup makes sense. Is it like training set
+since that's the split, some subset like scenarios. Checking and updating
+your description of the experimental setup, and also of course, comparison. If you're talking
+about comparing across different methods, do you have any update? Maybe you're not there yet. You see I'm still playing with the first method. That's okay. But if you have any
+further understanding and also further plan in
+terms of how you want to compare with different
+methods, update your report. And also like here, if you
+have some preliminary results, this is already like where
+you can start thinking about the reasoning of say like one key part in terms of evaluation section is to make sure that you don't just
+report the results. Because say, I took of my data, I prepared my dataset and I
+am building a classifier. I tried to say decision
+three classifier. This is the three I got or this is the
+performance I get, and also I tried to say
+support vector machine, and this is a result
+I get and put our tables and this is a
+performance I'm getting that. You really want to be
+starting to think about. Now you're seeing some
+preliminary results twice. You have your evaluation
+metrics you've seen the results and say,
+what does it mean? Is this a good performance and why is this one better
+than the other? Why is this one better
+than the other? I expect them to
+perform well overall. That looks reasonable, but I want to look at
+some of the arrows, I see some issues, and this also where you
+can potentially say, I've actually do it better. Or just say, well, because this method is
+designing this way, they don't really address
+this particular challenge. But it just, this is really
+the step where you as you're getting some preliminary results start doing the reasoning, starting talking about
+the trade-offs about when something works better and when another may
+certainly work better. Because it's totally fine that your results are not perfect
+and you say I tried this, but the results really
+don't look good. Of course they'll say, well that's not how you define success or
+failure of the project, but it's really more about
+your understanding of why do work and why doesn't work and how you maybe
+have to make it better. Then the discussion section. This is actually on the side,
+it's Regis junior talking about how your project is
+progressing any challenges, any changes basically adding
+a more of the reasoning. For your proposal report, we ask you to put in
+some of the timeline is when you're planning
+out your project, this is what I'm planning to do, and this is the
+how each component would take how much time, and also our current
+status, all that. Now you just pick
+that update it. You may say I receives on track, I have finished all this and actually falling the right time. Or just say that took a bit longer so I'm low
+back and I'll slight delay it to so I'm actually going to adjust this a
+little bit just to make sure I still would have a good
+life finish of my project. Or just say, I spent some
+time, this is all good, but now I won't
+actually shifting my project a little bit so I have a bit of updated task
+less than the timeline, all good, and also update your current status
+part because they say, this is the one where
+I have accomplished already and these are the
+things that remain to be done. Also challenges, so this
+could be potential challenges down the road or
+challanges you have already faced or you're
+facing right now. This all fine, but talk
+about the challenges that occur or may
+occur in your project, and if you have,
+adjust that, great. Talk about how you tackle
+that particular challenge. We're always still keep this notion about
+alternative approaches, a backup plan so you may
+have written something for your proposal
+stage and now you say, well, great, I figured out just so I don't think that this
+is a problem anymore. Or just say, I
+made some progress and this is still a part
+of having to figure out, so I may still run into some
+problems so that's okay. But still adjust all your
+updated like planning and the reasoning of how the remaining public project
+or will be carried out. Also here, of course is again, you're highlighting some of the changes and also
+if you have a lesson, this could be good lesson
+and have a lesson, things out of work, great. I tried this and I
+really helped me in the the further
+analysis or just say, initially I didn't
+do this but turn out it was really limiting my analysis down the road so I have to go back and
+the change something. Those are all good. At
+the center this is how we learn and just to keeping the same mind as you're
+writing about your report and especially discussing
+the challenges, the changes, the reasonably and also what may come
+down the road. All this is a good that the
+reason is the key part. Finally conclusion. Now look at the
+report conclusion you wrote for the
+proposal, update it. I said, by now you probably have a lot more information
+and some don't like a better understanding
+of the project so just update your summary part to say, in this project, this is what I'm doing and this is what
+I have accomplished so far. Let's say the key
+findings of course, you may only have
+preliminary results, but you have some maybe one or two interests
+and findings already put it in because
+that's how you want to provide more the
+takeaway message. Your conclusion should
+really highlight some of the interests and part
+of you have identified. Of course, the future
+work will come later when you actually
+finish your project. But that's how you
+summarize your report. By now if you've basically
+just as you're writing your checkpoint to
+report and you're just taking your
+proposal report, going through the
+individual sections and then just see how
+you can update it. Update it with new information, update it with the
+changes that adding been a more results or progress, but a reason about how things
+are working out or things that had to be changed because
+of the some challenges. All those are good. That is really showing you are
+learning in this process and showing your capability as an independent data
+scientists because you are planning out and you're
+figuring out your project. That's really what we're
+trying to accomplish for the project check 1 stage. As you're updating
+your checkpoint, the slides, your
+checkpoint reports, just keep all this in mind, and to see where things
+are in terms of progress, to see how things
+may have changed, either things worked
+out just as a planned versus things
+that had to be adjusted. All those are good,
+just so put that in but this is really the
+real-world experience of working on a project. What we saw with something that I would think would
+be very interesting, would like to pursue, we have some plan and by the
+checkpoint it just like, we have better understanding and things are working out to some extent and there are
+also things that we're changing and of course
+things we're learning along. That's all for the project
+SharePoint and thank you. We'll see you later.

@@ -1,0 +1,155 @@
+Hello, everyone, today we're going
+to talk about your project proposal. So we're now getting ready to propose
+our own data mining project, right? And specifically, you need to identify the key
+components to include in your proposal. All right, so the main question,
+of course, what do we do, right? So we're ready to proposal project. So specifically, your project
+proposal is a way just describe, what you plan to do,
+in your data mining project, okay? Of course, we know that at the proposal
+stage, we don't have all the information, we don't have all the details, we may
+not know exactly we're going to find and how things may turn out. So it's totally fine, but
+actually we expect it, right? You don't have other information
+available that is okay. And because of that, so your proposal
+is tentative, it's a plan, right? So it's a tentative and
+it's definitely okay to change or update your proposal later, okay? So don't feel that you're
+committing to your proposal and you have to follow exactly what
+you are planning right now. That's actually the nice
+part about exploration. Because with the data analytics, many times you start by asking
+some interesting questions, but we don't necessarily know what are we
+going to find, so things can change. So it is again the analytical thinking and the reasoning that really kind of
+guide us in this process, okay? So anyway, so at this stage,
+selling to the proposal, you come up with a good idea and you have
+a good plan for carrying it out, right? But knowing that not all the information
+is available and things can change. Of course now the big question is that,
+okay, yeah, we need to submit a proposal, right? What should be included
+in a project proposal? Okay, so think about it, right? So if you are to now kind of say, I just
+asked you to give me a proposal of your data mining project, what are the key
+components you think you should include? All right, let's start with the first one,
+that is your project title, okay? It's very important to have
+a good project title, right? because many times I have seen
+people just say data mining project. Of course, that is the data mining project
+for each of the student or anybody, but it's really not helpful or
+informative in any way, right? So you really want to pick a good
+project title which should be concise. So that means you don't want a very
+long title that people can easily forget, right? So it is concise, so
+it's easy to remember. But also you want to make
+the title informative. So the title should actually
+give people a good idea, right? In terms of what you're planning to do,
+okay? Of course, it's just a title,
+so you cannot carry everything. So the starting point is that just
+think about all the keywords, right? In terms of maybe the application or
+the problem or the technique or the kind of data you're using, right? So just see what are the most
+important keywords to include and see whether you can embed those
+in your project title, okay? Also [COUGH] it's optional, but I have
+seen people choosing good acronyms or code name for their project, okay? So which is also actually the good
+way to kind of have a short but informative kind of name that people
+can remember your project with, okay? So do spend a little bit of time really
+kind of think about what project title you should use, okay? And of course you can change it, but try to come up with a reasonably good one,
+okay? All right, so the next part is
+usually referred to as abstract in the more like academic setting. And many times you may have heard people
+using the term executive summary, okay? So that's really just intended as summary,
+right? So this is really just like a brief
+description of what are your project about, okay? Because typically you may have
+a much longer report, right? But if you want to just give people
+a quick synopsis of your project, right? So here you typically use like one or
+two paragraphs, okay? And then you just slightly
+give a good overview, brief overview of what your
+project is about, okay? So this is a short,
+like a very short overview. Now we get into more of the detailed
+kind of components of your proposal, okay? First one, we typically use this
+introduction kind of piece, okay? So you could use a section in your report,
+okay? So what is the introduction about? Right, you basically want to just
+introduce your project, okay? So what do you need to introduce, okay? First one, what is the problem, right? Of course, you say, okay, I'm working
+on a data mining project, right? But what is the problem you
+are trying to tackle, okay? So just start by describing the problem,
+okay? And then the next part piece is
+about why is this important, right? Say okay, this is a problem, but why this
+is an important problem to solve, right? because you're talking about spending
+your time and effort on finishing it or doing your data mining project
+on this particular problem. So you will not at least kind of
+expand to some extent, right? Why this problem is important to solve,
+okay? And also it is important to talk a little
+bit about what has been done already. Because many times the problem you're
+trying to address is not brand new, right? So either the exact problems have
+been kind of tackled by other people with some solutions already. Or you're working on maybe not the exact
+same problem, but it's kind of related. So they maybe have some related problem
+that people have addressed, okay? So it is important for you to have a
+reasonably good understanding of what has been done already because we really don't
+want to just repeat whatever other people have already done. So knowing what has been addressed
+already existing solutions. But also important is about why
+there's still a gap, right? Because giving what
+people have done already, they didn't really address this problem,
+right? Okay you want to briefly talk about
+the limitations or the gap, right? Giving existing solutions, right? That then sets the stage for
+why you're working on this problem and why there's a potential
+contribution in your work. because this is important,
+you want to be working on a project and you're actually contributing
+to something new, right? [COUGH] So this is really like again
+kind of setting the stage, right? So instead of really think about
+the problem, setting the value of solving that problem, the limitations and
+also potential contribution, okay. So try to think about it in this way,
+because that really just says that this is important to address and
+I think I have a way to do it better. So if I am to use example like,
+I talk about my research projects, some of the examples I gave in
+the previous lecture, okay? So let's say for my, if you remember my plug in hybrid
+electrical vehicle problem setting. So here the problem is that we
+want to understand how the vehicle, particularly the battery system performs
+under different driving behavior, okay? So it is important problem because by
+understanding how that performs then we can actually then come up with a better
+solution or better design, right? And of course we have better way
+of estimating the capacity of the battery system over longer time, okay? So it gives us this benefit
+if we can do it, okay? But the limitations of prior solution. So we work on that project,
+they were really not a good solution that actually ties together a data-driven
+approach that tries to connect people's driving behavior with
+the battery system performance. There were various kinds kind of
+battery system kind of physical models. Trying to understand how the system would
+be expected to perform under some kind of specific scenarios, but they're really
+not connected to the real world usage. So from our perspective so
+the potential contribution, right? Saying is that by collecting real world
+data about users driving behavior and the vehicles,
+the battery system performance. We are able to have a much more realistic
+model of how the battery system perform. And then from there provide more precise
+estimation of the overall performance and also provide directions for
+the improvement, okay? So that's just one example, right? So think about your project and think about how you want to just
+kind of provide that kind of reasoning, why there's a problem, why there's
+something interesting to work on, okay? So you have talked about the introduction. So the next section we usually go a little
+bit deeper to talk about the related work, right? In the previous slide we say you want to
+talk about existing solutions, but just briefly because your goal is
+really more about highlighting the limitations of the existing work,
+okay? So here you kind of dive
+in a little bit further, so you can talk more specifically about
+what has been done already, right? So this is just kind of making
+sure that you have a good understanding of the related work, okay. So when you say related work,
+it's really just about, okay? This is a project I would like to work on,
+but what other related work
+that has been done already? So typically, depending on your project,
+you can usually group for your discussion of the related work into kind of
+maybe two or three categories, okay? This could be about specific topics,
+right? Or this could be more about kind of
+the data set or the tools or previous study and their findings, okay? But the key idea is that you want to
+identify ones that are relevant and then be able to just
+group them in the way. And then describe how they are related and
+how they are different, okay? Because the key point is that you want to
+be able to show that I have a good knowledge of what has happened
+already in this field, okay? And how my work will build upon this,
+that is important, right? because our goal is not
+to reinvent the wheels. We actually want to leverage whatever
+has been done already, right? So there may have been
+a previous kind of tool or method that works reasonably well,
+but I see a way to make it better. Or they are previous study that
+look at one perspective, but maybe not the other ones,
+which are more interesting. So you could be adding new knowledge,
+right? So just think about how your
+project builds upon all the prior work in terms of utilizing
+the ones that has been already. If it's a nice tool,
+a nice data set you can use, right? But also think about how you may be able
+to compare across different methods or for your particular usage scenario, okay? And of course you can look for
+particular improvement. And also there may be new knowledge you
+can capture giving what has been done already, okay? Of course, this is really
+dependent on your actual work, and of course you can expand your related work
+as you move along your project, right? Because you may start by identifying IPU,
+but as you go deeper, you may find other relevant ones,
+which is totally okay, right? We said we don't have all the information
+at the proposal stage, so it's actually good for you to update
+further as you find more information. But the key point when we talk about
+related work is about understanding what has been done and
+how your work improves upon that, right?

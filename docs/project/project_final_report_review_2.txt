@@ -1,0 +1,130 @@
+We start. We are finishing
+our data mining project. It's like looking back, where we started with really brainstorming by saying what
+is a data mining project. I was like, it's really
+pushing everybody to be the architect
+of your project. Because the idea is
+that instead of being provided with a readily
+defined project and then you just come up, go and finish the task, there's a like one-by-one, here, I really want to get everybody to propose why they
+own a project. I feel that's actually
+very important skill to have and actually it's very useful in many real-world
+settings because you want to be able
+to identify projects. Identify the problem setting, think about what
+you'd like to use specifically in that project and explore the different
+questions you could answer with your
+data mining project. We went through the steps of
+general brainstorming and then really like concretely defining your project
+where I see the proposal, and then we had our checkpoint discussion-based just seeing how things are and be able to see whether there
+has been any changes, whether things are on track, and of course finishing the
+project with a final report. Those are the core tasks involved in the data
+mining project. But also I really want to
+highlight this review aspect. By now, all of you of course, have submitted your
+proposal, checkpoint, and final report
+and you should have done the reviews
+of other projects. I hope you really see the
+value of being the reviewer, because many times when we're
+working on our own project, we become too focused
+on just finishing it, and in a way may lose the bigger picture or
+see the whole process. By reviewing other
+people's report, hopefully provides a bit of more perspective so
+in terms of like, yeah, I wasn't thinking
+in my project, but I want to look at other
+people's projects I see those aspects which
+I can do better in my project or I can
+provide good feedbacks or useful suggestions
+to my classmates in terms of their project. That's really how I think
+we learn from each other, and how we help each other. I hope you'll post the review, add a bit more effort, but I hope you enjoy that and really see how you can
+learn from that process, and how that augments your own project's aspect by providing this
+reviewer's perspective. To summarize, if you check our definition
+over the course, and that we actually
+really highlighted these four core pieces as the objectives of our
+data mining project. The first one is
+about being able to identify the key components of a real-world
+data mining project and propose your own project. That's why, and I still haven't
+said that we have really pushing everybody to
+define your own project. It makes it a little harder
+because of course it takes more effort for you to come up with your own project. But hopefully you are able to pick a project that
+you are interested in and you're able to
+carry it out and actually really learn something
+that it feels useful. That's the proposal stage. But then the next
+piece, of course, is the actual hands on
+experience of designing and developing the
+actual solution across the full data
+mining pipeline. That's also important because in the real world
+data mining project, you just need to work through
+all the different pieces. There's no predefined
+color checklists or a guideline for you to say just follow the instruction
+you will be good. Here there's a lot of reasoning. You really need to think
+about at every step. For every particular design, or every particular result, think about where the ends
+are, what that means, and how you can go
+further from there. This is really the
+whole process. There's no predefined set of rules or
+procedures to follow, but it's really about how you know the whole process
+and then being able to reason about your progress throughout
+the whole thing. Then we get to this
+the racking up piece, because you may have a very
+interesting project idea, you have done some of the
+solution, but ultimately, it's about how you
+summarize your results, and if you have to
+present effectively because your report should not be just something like
+I have done all this, I have a full list of our
+results to pages or figures, so go check it out. Actually, a big part of value of a data scientist is being
+able to synthesize, extract what you have done, and really highlighting the
+key findings so that you can convey that knowledge to your audience rather than
+just providing a full report. That's also very important. Actually really can
+always think about it as you're presenting your results. As I said, the result
+wouldn't be just say, a table or a figure and
+they say go figure. Rather you say,
+what does it mean? When I show you this the table, when I show you this figure, I want to be able to
+add and also provide this interoperation
+about what is it, why this is important. The last piece, but
+also very important, this actually goes
+through the whole process because we went to a little bit the
+concrete aspects of writing the proposal, doing the work of writing a check for and then
+the final report. But a main piece that's
+outside of the core component of your specific project is
+about this bigger picture, architectural view of how
+a project is carried out. Some of you may be doing this project for the first time, some of you may have already had experience in other settings. This is all good, but this
+is a really how we learn to the real project but also go beyond a single project,
+be able to see, that just generally,
+what is a good way to carry out a project
+going from the design, going from the execution, summarizing and all that. In this process, think about
+how you can do it better. With that, we have
+actually come to the end of the data
+mining specialization. In this specialization,
+we have three courses. We started with the
+data mining pipeline, we really went through
+the individual steps of the whole pipeline and how
+the pipeline are important, and how it connects together to provide a good
+data mining setup. We then dive into the
+data mining methods, so this is the second
+of course and we talk about specifically the
+different methods we can use. We'll talk about frequent
+pattern analysis or we'll talk about classification,
+clustering, anomaly detection and
+also a little bit more, but the more advanced methods. That's really the frontiers
+of a data mining field, what's happening in
+the researcher field, but also some of the complex
+data mining scenarios. Hopefully that gives you
+a bit of good foundation. Then in this course, we went through a concrete
+data mining project, which is defined by
+yourself and carried out by yourself and of course
+reviewed by your peers. Hopefully, we went through the whole process
+and really getting a much better understanding
+of this hands-on experience. Just to summarize. Data mining is reapplied. It's happening in
+the real-world. It's happening in many
+very diverse settings. What I hope is that you have enjoyed learning all
+these materials, but also can see beyond what we're
+learning in the course, but to see really how they
+connect to the real world. As a takeaway message,
+stay curious. Data mining is actually
+very powerful. It has great potentials in
+many real-world settings, so just keep asking
+your questions, so what you could do if you had those data or what if
+you get those data, what other particular fields
+you can learn from that? Throughout the whole process, keep in mind, we want to
+use analytical thinking. It's not about the mechanics of just apply the data
+mining methods. It is about the reasoning
+behind the whole process that makes data science particularly interesting
+and valuable. With that, I'd like to
+thank all of you and I wish you best for your future
+adventure. Thank you.

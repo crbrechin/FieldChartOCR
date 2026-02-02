@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.idea/
+
+# Outputs and generated assets
+outputs/
+assets/generated/
+
+# Large local datasets
+samples/
+mileage_reports/
+hand_drawn_notes/
+
+# Local environment and DBs
+*.sqlite3
+*.log

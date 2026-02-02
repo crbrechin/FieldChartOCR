@@ -1,0 +1,193 @@
+And then make sure, right, you really
+finish this evaluation section, right? because from the checkpoint report, you would have a reasonably
+good evaluation plan, right? You may have updated during the checkpoint
+just to make sure that your plan is still good and maybe already include a little
+bit of kind of preliminary results, right? But this is when you're
+writing final report, and make sure this evaluation
+section is complete. Right, completely meaning that has the
+whole kind of setup, right, the metrics, experimental setup, if you're
+comparing with any methods, right, and also the key results, okay? So this is the part where it gets a little
+bit interesting but also tricky, right? Depending on how your project goes,
+right, either you feel like I have, well, I don't have many results, but
+I'll just put them all in, okay? But many times you'll see, actually,
+I probably have too many results, right? Too many results,
+what does it mean, right? because you can easily run
+many different analysis. You may have kind of various
+types of kind of results, right? So now the question is that,
+what are the results to include, right? because say, okay, yeah,
+I would like to include everything, right? But think about it, right? You want to include the most
+important findings, right? because you may have tried other things,
+other things they say, they look similar, that's okay. So you compile just to say, okay, present
+your most significant results, right? And then say, okay, I'll also evaluate in
+the other setting, and they have similar patterns, or I evaluate in the other
+setting, the performance is not as good. That's all fact, right? But you want to prioritize your results,
+okay? Which ones are most important? Which ones are important to include? Others can be ignored, or
+which ones they're still important. But I don't need to include all
+the details just to say that, kind of summarize it in a way, okay? So one is about just prioritizing, right,
+what results are most significant, okay? But the other one is about,
+again, reasoning, right? Because our goal is not
+just to report the results. Say, I got this accuracy, I got this
+particular false negative rate, right? You want to be able to
+interpret your results, okay. So by interpreting results,
+you're basically saying that, okay, what does this mean, right? I got this particular number, right? Or when I compare the different methods,
+this is what I got, okay? So you want to go beyond reporting
+your results and really kind of say, what does this mean, right? So that means method is always
+better than the other method, or this method actually has better
+lower false positive rate, right? So it's better for what kind of scenario. So you're just trying to, again,
+kind of reason about your results and see how that then connects to
+the potential usage scenarios, okay? Another piece I want to kind of add a bit
+is about the presentation of your results, right? There are different ways of
+reporting your results, right? You can just put a number in your text,
+right, in the non-paragraph, which is, of course, not easy to read, right? So think about how you can visualize,
+right, your results effectively, okay? So if you're reading other papers or other
+articles, you may have seen this, right? So think about, what is the most effective
+way of conveying your results, okay? [COUGH] If you're doing comparison,
+maybe a table is fine, right? But make sure your table is clear,
+it's easy to read. And also maybe you can highlight, right,
+the best performance, right, using, say, bolder face or a color, right, so that you can highlight the results
+that are most important, okay? So that's more like a table format. And of course, you can use the figures. Right, so there are various kinds
+of figures you can leverage. Right, so
+bar charts are very useful, right? And also some kind of
+temporal charts is good. Pie charts are also good,
+and also arrow bar. [COUGH] Bar charts with also
+the arrows is also very useful. So there is just many different ways,
+right, for you to show. And if you have any kind of spatial
+temporal set up, then you can visualize it, right, in a spatial temporal fashion
+with different colors, that kind of thing. Okay, so really think about,
+right, how you, one, which are the key results to include,
+okay? How you explain them or
+interpret the results, but also how you present the different
+results so it's kind of easy and effective in terms of conveying
+the key message, okay? All right, so this part will
+take a little bit of time, but really kind of think about
+the most effective way to do it. All right, so now you have kind of
+finished more the main sections, right, but this section is also important, right? We have been talking about
+the discussion section, right? So this discussion, as I said, this is
+how you kind of monitor the progress of project and learn throughout
+this whole process, right? So the other section is more talking about
+the core content of the project itself, but this is more about the process, right? So your discussion, right, as I said,
+usually you would include your timeline. So by now, of course,
+you've finished, right? You can see I have this, how much time
+it took me to finish all that, and what is the current status, right? Keep in mind, right,
+even though we're wrapping up a project, that doesn't mean that everything
+has to come to a hard stop, right? You can still say that
+this is where I'm at. And there can be future tasks or
+things that I'm still working on, but I may not be able to finish it in time for
+this, which is still fine, right? But the main point here is that you are
+still kind of reviewing the progress of your project to see where things are,
+any challenges or changes along the way. So this is really your way of
+reviewing the whole process. And that's actually important part about
+how you learn through this project, right? Because our focus, of course,
+is the project itself. It's exactly the concrete kind of task
+that you have accomplished, right? But another part is really
+about the whole process, right, how we carry out
+a data-mining project, right? How things worked out,
+how things can be better, right? So the changes, the lessons,
+these are actually, I think it's very important to include. And I hope actually really spend some time
+kind of reflecting upon the whole process. And then really think about how your
+project has been carried out and what you think can be better,
+all that, okay? And now we get to the conclusion section,
+right? So this is, okay, finally, right,
+we're wrapping up [LAUGH] the report, right, and wrapping up the whole project. Okay, as I said, your summary, right, should have a really good
+overview of your project. This is when you're wrapping up. This is more like almost the last section
+people will read about your report, right? So you want to make sure this
+summary is concise, it's clear, kind of highlights some of the key
+aspects of your project, right? And also, as I said, when you finish
+your project, right, this is when you want to also finalize your discussion,
+your final key findings, right? What are the most important
+findings of your project, okay? So you may be able to list a few
+maybe in order or something, right? So this is also important. As I said, right,
+you don't just report results as is, you want to do this kind of this synthesis
+and be able to kind of highlight, right, the key findings so people don't need to
+sift through all the results you have and figure out what is most important, right? You need to do the job of identifying
+the most important findings of your project, okay? There's one more piece, okay? So we talk about the summary,
+we talk about the findings, are we done? Okay, so [LAUGH] typically, right,
+when you talk about a report, especially data-mining report,
+right, when you finish, we want you to really think
+about your future work, okay? What does that mean, right? Why do we even need to think about
+the future when I'm done, right? I don't need to do more work,
+right, in this project, okay? So this is really for
+the purpose of kind of looking forward. Remember, we started saying when
+you are doing your proposal, think of yourself as an architect, right? You want to be able to kind of be this
+kind of this visionary person, right? Identify interesting problems or figure
+out how to address a particular problem. And this is how you actually
+continue because by now, you have the best knowledge
+of your project, right? Think back, right, when you just started
+with your proposal stage, right? You say, okay, yeah,
+this is all interesting, I think I would like to try it, right? But this is a win at this point, right? You have a lot of knowledge, right? You have some deep
+understanding of the problem, you have done some concrete analysis,
+right? You probably have some very good ideas
+about potential improvements for the analysis that can be
+carried out further, okay? So that is not a commitment to say
+that I will finish this, right? So when we talk about future work, right,
+think about, it's more based on your understanding, there's something
+new that can be done, right? So this could be something you
+can carry out, right, yourself. If you are interested, I have the time. Or this could be just junior just so
+somebody else can take this. Right, think about in a kind of real
+world setting, you can actually advise somebody else to take this and
+do it further, right, or something. But this is really where you
+are looking at where you are, right, based on all the things you
+have learned in this project. And then look forward, right,
+provide us the vision, okay, of further future work, okay? So what kind of future work, right? So of course,
+all the projects are different, so you may have different ideas. So think about, first, right, what you
+think could be things that can be done further, right, given what you
+have already accomplished, okay? So one example, right,
+this is other data to incorporate, right. because I have actually heard many for
+my kind of students, right, after they finish
+their course project, at the end they say, yeah, I think we
+have found some very interesting stuff. But I think if we can incorporate
+some other data, right, we can actually ask some more
+interesting questions, right? So this is about augmenting the project
+with more data because apparently with more data, hopefully there's more
+information you can leverage, okay? Think about other data. But also just say, either with the
+existing data or with the new data, right, are there questions to explore, right? because apparently you say,
+I have explored this, but there could be some other
+questions to be explored, right? So that could be also very
+interesting to look at further. Also just method itself, right? because I said the techniques,
+the methods, those are the core parts in your
+data-mining project, right? So you may have explored a few
+different methods in your project, right, now you have a better
+understanding of those methods, right? So either say, I think those methods
+are fine, but they're missing, or limited in some way, so maybe I want to
+try, if I had the time as a future worker, maybe I can try other methods, right? So that's one direction. Or taking the method you have, look at
+you'll say, I may be able to improve the current method by incorporating
+some new information there, right? So those are just actually the potential
+improvements because as I said, you now have a very good understanding
+of your problem setting. You have very good understanding
+of the methods, right? So really think about how you
+can make it better, okay? And experiments, right, because with the
+evaluation, when you talk about evaluation plan, your evaluation setup, and all the
+different experiments you have conducted. You now have very good understanding,
+right? But there may be chances, opportunities
+for you to do more experiments, right? Say, if I can do more experiments
+in this kind of scenario, I may be to explore some kind of new
+patterns or answer new questions or further evaluate the message
+like I have in mind, right? Another aspect is about the scaling up,
+right. because many times with the course
+project setting, right, it's limited in scale, right? We're not necessarily talking about all
+the huge datasets that you may face in the real world. So based on your study, based on
+your analysis and your findings from the course project, right, think about
+how you can scale things up, right? How would your method or
+the results be similar or different if you are now
+talking about 10 times or 100 times, 1000 times a bigger
+dataset of the problem, right? Because this really pushes
+the boundary in many directions, okay? Just really think about how
+the solution may still work or may need to be improved if you are dealing
+with a much larger scale, okay? So those are just examples in
+terms of future work, okay? But the key point is just that as
+you're wrapping up your project or finishing up your report,
+just take a little bit of a time, just think about the future work, right? Think really kind of like,
+take all the knowledge you have so far and really think about what can
+be done at future work, okay? And this is actually a very good exercise,
+okay? All right, so just to wrap up, right? So this is really the final
+project report stage, right? I want to just kind of reemphasize
+the learning objectives, right, for this stage, right? Because at this point, right,
+you're finishing your project, you're writing the report, right? And this is very two important aspects,
+right? One is, be able to summarize your results,
+right, and also present it effectively, right? So this is really about conveying
+the key outcome of your project, okay? But also another view is
+about the process, right. Analyze the overall project process and
+also identify possible improvements, okay? because that's how we learn
+from the project, right? Not just the concrete kind of knowledge
+you're learning in that project, but also it's about the lesson, about how you
+carry out a data mining-project, okay? All right, so that is all for today. Thank you.

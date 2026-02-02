@@ -1,0 +1,199 @@
+We will talk about introduction, we'll talk about a related work. The next work process is
+really the core part. That is a proposed work. What are you proposing to do? Where does or what
+the problem is. What has been done already, but what you are going to tackle , your particular project. Typically, especially with the data mining
+project, of course, you like to start by
+thinking about the datasets, the tools you can use. Here just include
+some good description about what data you can use. What information is
+including this dataset. Are there existing
+tools that has certain functionality
+you can readily utilize? This again helps you to plan your work so you don't have
+to spend all the effort just creating the dataset or building a tool that should
+just be too much work. Leverage what is available. Clearly identify those. But then you get to the
+part of your main tasks. As we mentioned earlier, is typically a good idea for you to play your project using a set of prioritized
+list of tasks. The idea is there may be
+different things I can explore and I'm not sure what I
+can explore all of them. I may add other
+ones as I progress. These are all fine.
+But there's always initial list of tasks, and let's think about how
+you want to carry them out. This actually connects back to our discussion of the
+data mining pipeline. As I said, that you
+have a problem setting, but then need to
+accomplish what you want. Think about the whole
+pipeline and think about what you would do, or can do in each
+of those steps. Starting with the raw data, understanding the data.
+Understanding stage. It's a very helpful and
+actually you really need it for you to just take your
+time, understand your data. You can do statistical analysis, just understand the
+various distribution. Whether there's any
+extreme values. Also just visualize
+your data so you have a much better understanding of the data you're working with. Just a starting point. But then you can
+move on and think about whether you need
+to do certain types of pre-processing and
+whether there's a particular warehouse and what data management
+mechanisms you can leverage. Because many times if you
+spend a little bit time here preparing your data or manage your
+data are properly, it will make it much easier
+for your analysis later on. Then of course you get to the core parts of data modeling. Because depend on
+your problem you may be asking
+specific questions. I can generous thing about the techniques we have talked about. Frequently data
+analysis, whether this is classification problem
+you're trying to address. Whether you want to use this as unsupervised
+clustering-based approach, or you're focusing
+more on the anomalies. Or this could be more of
+the temporal analysis or image and texts or graph. Those are all specific
+things you could do. Then once you have a
+generalist you say, these are other things
+I like to explore. Just put them down and have a reasonable discussion about how you would like
+to carry out those. Again, keep in mind
+that you may don't have all the concrete
+things unless they're. You may have maybe a
+high level saying, yeah, this is a
+classification problem. These are the measures
+or metrics, bro, good. Or you may be say, I'm not exactly sure, but there are some
+questions I'd like to explore and see whether I
+can answer those questions. All of those okay, this will readjust your planning stage. Don't really be
+concerned about, oh, I don't know exactly what
+I'm going to do here, but ask her some
+interests in questions. Because this, again, is your pennies that you
+are the architect. You figure out, what would it be some interests
+question to explore? You may or may not
+find a good answer. It may not turns out to be interesting pattern or you may not find
+this as I'm saying, which is a fine, but asking the question at this
+stage is important. You propose this. These are
+the things you'd like to do. But also think about how you're going to evaluate your results. Because many times as I said
+with a data mining project, you don't just say, I did this analysis, this a lot. This is the results.
+Here you go. Somebody has to
+take your results in a day so they can use it. But you need to show how
+good your results are, how reliable your results are, how accurate your model is. You need to think
+about specifically how you're going to carry out
+the evaluation process. Starting point for us is that
+for your problem setting, what kind of evaluation
+metrics are important? Generally what I think
+about effective measures. We say if it's a classification, you talk about accuracy. You're talking about
+the frequent patterns where you have the
+support value, you have the confidence,
+you have the correlation, all those values you can use to show how significant that is. Also think about, remember we talk about
+the false positives or false negatives and how
+they may be different, like one may be more
+important than the other. Then many times is
+not a single metric. You may be using
+multiple metrics to evaluate different
+perspectives. Another thing I really
+want to emphasize that when you're considering
+your evaluation metrics, think about both the
+effective measures, but also the efficiency angle. Efficient can be,
+how long does it take for you to carry
+out each of those steps? This is really just more like the latency or the pseudocode. I say like how many data points can you handle in
+certain timeframe? Those are important,
+especially if you are say, comparing different
+measures or see whether this actually would be useful or feasible for the
+real-world setting. The latency angle, the efficiency
+angle could be playing an important role if
+you're talking about potential trade-offs between
+different approaches. If you have the
+evaluation metrics, and then of course you
+say, how am I going to carry out the evaluation? This then gets to this
+experimental setup. What data are you going to use? Are you going to split your data in two different subsets? Are you going to use certain portion as your training
+set and the testing set? We talk about
+cross-validation, multifold, k-fold cross validation,
+or significance of tests. All those are important. Just think about the exam, how you're going to compare. Again, keep in mind that you may not have everything figured out. This is the proposal stage. Just better you need
+to start thinking about it and write
+down what you have already and then we
+can of course refine that later as you move
+along in your project. Another angle I will also point out is that many times
+in your evaluation, you're probably be comparing
+different approaches. For example, I say, to solve this particular
+bulb problem, there are a few
+different ways to do it. There may be some
+existing solutions and even your own solution you may have a few
+different choices. All those are the things
+that you can compare. Because when you're comparing
+the different measures using against of course
+the evaluation metrics, then you actually have a
+much better sense of how one solution compared to
+the other and whether they've performed better in
+this case over this other. Of course, at this
+stage you don't have the actual evaluation yet, but you're really
+just planning out how you want to evaluate
+and how you claim success or good performance when you're talking about your end results
+or your solutions. This section may be a little bit confusing at the beginning. I reinvented this is actually
+a discussion section. This is a bit more of
+push you further along this analytical
+reasoning direction. This is really just
+a generalized. Think about how you'll
+want to plan out your project because this is really just about
+the project timeline. Because during our
+marking week term, our schedules are different and your workload are different, just make sure you plan
+things out ahead of time so you know generally
+what are the tasks, when you expect to finish what. Is this actually realistic? Is it may be too much, or maybe you can actually
+do a little bit more? This is really just to
+helping you to plan out, how you plan to carry out. Also you can talk
+a little bit about your current status
+because this will be updated later as you make
+progress in your project. But say in your current
+status you can say, I have already obtained
+the dataset or I had some very initial
+reading of this. I would regard this to
+a working or something. This is really just a way of
+summarizing for yourself, but also reporting in a way, just how you plan to
+carry out this project. There's also a casualty is
+something you can include. Is that potential challenges
+because you have a plan. This is what you
+would like to do, but you foresee some particular maybe challenges or roadblocks. Why you see this piece? I'm not sure I would
+like to do it, but there's some chance
+that it may not work out. Or like, I would like to ask
+this particular question, but it may not turn out
+to be very useful or easy or something. You
+can talk about this. Again, if you don't
+have anything to talk about here, don't worry. But this is really a
+place where you can like a reasoning about, okay? This is what I plan to do. I propose it to do this, but what are the
+potential scenarios that may redirect or requires
+certain changes? This also gets to
+this notion of like, think about like
+alternative approaches or whether you
+have a backup plan if something doesn't work out. You may not need this at all. But it's just a
+janitor good to think about whether because
+sometimes I say, okay, I like to look at those questions or
+use this dataset. But maybe it's a dark tunnel. I couldn't really
+use this dataset, doesn't have the
+information I need. Then, in that case, my
+backup plan may be say, augmented always another dataset I think I couldn't use also use this dataset to
+combine it maybe. Or does it always with this dataset doesn't
+work out or does the tool doesn't
+work out as you have another option, I could do this. Those are other times we just planning and not
+just thinking about how you may be able
+to lighted candle. Well adjust the
+potential candlelight or challenges or down the road. General fund or any proposal
+or report document. You started with a good overview of the abstract and the intro. You're talking about
+the details, right? But it's always good
+for you to have a conclusion or
+concluding section, which is again, tie everything back together. This is really just
+more like it's meant as a project summary. When you're writing
+this, you may feel this may be a little bit repetitive of what we have said already, but just keep in mind, it'd be very helpful
+for your audience or your reader to be
+able to have a more likely this a good picture right on with good summary both at the beginning
+and the end. Also, there are two
+particular pieces that you may want to include as you
+write your conclusion. This, of course, when you finish your project like this,
+there's also proposals. They just so you
+don't have those yet. But typically, when you finish your project,
+your final report, write your conclusion is
+important for you to of course, give the summary,
+but they're really highlight your key findings. But because the people will
+be paying attention to that. Because they know
+now you're summarize and concluding your report. What are the most important
+findings in your work? Also, it's actually always interesting to think
+about future work. Of course, the kinds
+that by the time you finish your
+project, you're done. You're not obligated to do more, but this is future work. Candlelight go discussion or
+thinking is very important because your daily life or your project doesn't really
+stop there, I could say, this is what I have
+accomplished so far but if I am to carry this further or if somebody else is to
+carry this further, there are some interesting
+questions to explore further. There is actually a very
+good thinking again, using this architecture view. You say this is what
+I would like to do, but by the time we're
+finish they're also like further things
+so we can explore. Just keep all that in mind as you're writing your
+conclusion section. That's really the main pieces that should be included
+in your proposal.

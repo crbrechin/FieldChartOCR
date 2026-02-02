@@ -1,0 +1,221 @@
+Hello everyone.
+Today let's continue our discussion of
+our course project. Specifically we're going to talk about the project Checkpoint. So right now I should it be some work in the middle point. We've finished with the
+project proposal and now we're in the
+process at what these shiny at the developing our solution for the real-world
+data mining project. The key part is to single about the food data mining pipeline. As a quick review, we
+covered the whole pipeline. As we said earlier,
+data mining is not just one particular component where you just take some data, do some modeling, and
+report the results. We really need to think
+about the whole process. Starting with collecting
+the raw data. See how you all getting the specific dataset as
+needed for your project. We have the data and then progresses through
+the whole pipeline. Trying to understand your data, think about whether there's any pre-processing
+that is needed. Think about data warehousing, how you can manage your data or analyze data in particular way. Then first, the modeling
+process and evaluation. Throughout this whole
+process just to keep in mind that what is the big
+picture of your project. Because remember, as
+we were proposing our project we said what
+is the application? What is this scenario
+you're trying to utilize the data mining methods
+and the process of four. What kind of knowledge
+you're trying to learn, what kind of data using and
+what kind of techniques? All those need to come
+together and this is how we can integrate
+the various pieces that will have learned so far in the data mining
+specialization to really put this into an actual solution for
+a real-world project. If you think about
+your progress. Because the right
+now, if you look back and of course
+looking forward. What kind of a progress we are expecting in
+your course project. Starting point. You should have obtained the data you need. You need the data to
+accomplish your project. Do you have the data you need? Are you still in the process of collecting data or you have all the data you need
+locally available. Also, think about the tools. Data mining is a
+very active field. A lot of tools that have
+all ready been developed. We really should to
+leverage other tools Master that's already available instead of reinventing
+the wheel. Identify the tools that are potentially useful
+for your project. If you're not too familiar
+with the tools already, of course spend a
+little bit time learned about those tools. The most of those tools to have some good tutorials are
+examples for you to get familiar with it until
+I started using them. Then I decided I take your time. Try to understand your data because this is a stage
+where you basically say, take your data and then they'll say what attributes do I have? What distribution am I seeing? Do see trim values and
+also you may try to visualize your data in different
+ways so you can actually have better understanding
+of your data. In the preprocessing
+stage, right? Think about what processing you have down all
+ready or things that you think you may
+still need to do because there may
+be missing values. Maybe there's some filter
+and you have to do or aggregation or like
+a normalization. Basically here you are picking
+the different types of data after you have looked at them and now you're
+trying to prepare them. Again, depending on the specific data you
+are dealing with. This step may take more time or longer time, but typically, it is important
+to at least think about what do you need
+to do in this stage? The next one, warehousing. All our project may
+not be that big data require extensive kind of
+design of the data warehouse. But the key idea here is that from your project point
+of view is about whether there are better ways
+for you to organize your data and manage
+your data so that it's easier for you
+to do your bobbing on evaluation or intuitive process. Here either you can say, all I have the data in
+the right format I need, so I'm fine. That's okay. But if you are anyways, they may be different types of data and there are some benefits of rearranging things or pricking them in
+different subsets. Spend your time, just
+take the effort and then just make sure it's
+organized properly. Then as you progress further, now you've got your data, you have a good
+understanding of it. You are ready for
+the actual modeling. This is a core step where
+you think about what you or what specific modeling, problems you're
+trying to adjust. We cover quite a few in our data mining methods
+course, and of course, depending on your project, you may pick or maybe
+focus on particular one, or there maybe a
+couple you're trying to address, either is fine. But think about what is the most useful method for your particular
+problem setting. Let's think about specifically, we've talked about
+different methods, and there are tools
+available readily, you can actually just
+utilize what is available. But then the key part is about
+identifying your problem, identifying the suitable
+methods for your problem. In this process,
+do you see ways of improving your method further. All this is of
+course challenging, but that's really the
+interesting part and that's a potentially the most
+innovative aspect, and that you will do this in a more like iterative process. You know you're
+modeling a problem. You may try out some method. You will have the basic
+evaluation to see how it performs and then see whether
+you can improve it further. There will be better
+back-and-forth in particular, between the modern and
+evaluation of steps. We talk about how you need
+to think about the metrics, say like give me your
+problem setting. You want to say, okay, how
+do I evaluate a success. What kind of metrics do I use? Keep in mind you maybe focusing more on the
+effectiveness side, that's more like the quality of the models or the methods, but also many scenarios. Think about how the efficiency
+angle is also applicable. How long does it take for you
+to process that much data? There's both, of course,
+the offline training piece and also the online
+decision-making piece, and maybe there are
+different sub-tasks and also if you're comparing
+between methods. Also think about
+how they compare in terms of effectiveness and
+in terms of efficiency, and many times you
+will be starting asking this question
+about the trade-offs because in many scenarios you may have method that
+they perform differently. Maybe no idea cases
+may be one method that's superior to all the other approaches,
+fine, that's good. But there are many
+scenarios you will see that like different methods
+may perform differently, and it's not clear ones
+always better than others. Now you get to this trade-off. It's about this semester
+there is a more accurate, but it takes more time. The other method is like, well slightly lower
+in terms of accuracy, but it's a much more efficient. Or this method actually performs better in
+these scenarios. Because when you
+look at the arrows, like the false positive, false deck trade-offs, you can also see
+different effects. This method has a
+lower false positive, but the other method have a low false negative or something. This is actually the poor
+part of this reasoning, it's about knowing the method, knowing how the method works, applying them to your
+particular problem and your data-set,
+seeing the results, and then be able to reason about the pros and cons of
+different methods. As you're progressing.
+This is now we're getting to this the
+checkpoint stage, and we're really trying
+to get a status update. This is like are
+things on track? Remember we propose
+to our project, that is one way, we're
+planning things out. We would like to work on that. We'd like to tackle
+those tasks about now. As we progress
+through our project, we have better understanding
+of the problem and we have like some maybe
+preliminary results already. All that would not allow
+us to have in a way, revisit of our proposal, and now checking
+where things are. For the purpose of a checkpoint. Really think about your
+progress and also changes. Progress means that what you
+have accomplished so far. While the change is important, as we said, the proposal
+stage was really tentative. We're still planning out and we're figuring out
+a lot of things. But by now, you may have
+some more concrete ideas, also you may have adjusted things or even made
+a bigger changes. All those are fine. But
+this is what we would like to identify for the checkpoint. Again, they're just the
+two pieces to submit. This is very similar
+to the proposal stage. You'll be submitting
+checkpoint slides and also checkpoint report. Remember for the
+project proposal, you also submit the
+slides and also report. For the checkpoint,
+you don't need to redo everything from scratch, rather, you take your
+proposal slides, you take your proposal
+report and just update them. Because supposedly,
+this is still the similar problems
+that then you may have to adjust the science
+a little bit or you may have added something new, or you infer there's
+more substantial change of your project
+that is still fine. You can reuse some
+of the pieces you have already and then just say what has changed and
+what you have done so far. These are the two main pieces, the checkpoint slides and
+also checkpoint report. What should be included
+in the checkpoint slides? As we said, that this
+is the updated version from your proposal slides
+so you'll probably have very similar content compared
+to the proposal slides. If you remember original
+we're suggesting that roughly 5-10 slides
+for your proposal stage. Because of course we were
+just planning things out at a lot more high level planning and overview of the project. Here, say hopefully by now you have a few more slides to add. Again, this is just a guideline, it's not a hard limit. You don't have to
+fit your slides exactly between 10 or 15. But that's just saying
+by now you should have a few more slides with a bit more concrete
+information on them. But throughout the slides, it's about highlighting
+your progress, highlighting any
+potential changes. For the purpose of the
+checkpoint slides, you should give a
+good overview of the project because it
+has been a while since we saw your proposals
+and also you have maybe a different
+review or maybe looking at your checkpoint report. Make sure you provide
+a good overview. It's very similar in
+terms of your projects. I didn't just say this is
+what my project's about, you have a good title, and also think about
+your problem statement, relate to work, proposed
+work, evaluation timeline. You can take your proposal
+slides on top of that. Now, you can just add in
+information that is new, that is different, but make
+sure you highlight them. Say, this originally, I plan to focus on those that
+while I made there has been a few changes or I have tried this but it's
+not working out well. I'm attentioned with shifting my focus a little bit
+to a different one. That is all okay but
+it's really, again, a good summary of your project but with a focus on the
+progress and changes. Here, I want to just remind
+everybody again of the style because of course life you will have paid a good attention
+during your proposal stage, your slides should
+already be good. It's reasonably
+clean in terms of the overall style and also they have key points and are easy
+to read all those are good. But just keep in mind because many times as we get into some
+of the details with them, we tend to put in
+more information on a single slide like to say, there's a lot of some
+important detail I want to put in but always sit back and just
+re-examine your slides. Always makes sure they're
+clean, they're simple, they're concise and
+they're to the point, they really highlight the
+key points you want to make. Don't worry about
+including all the details. We will have the
+report. Of course, you will be writing the report
+with some of the details. But many times the goal is not just to convey all
+the information. Through your slides,
+your slides is really a good overview and a highlighting the
+most important part. That's about your
+checkpoints slides so let's look at the report. The report again, would
+it be updated and expanded version from
+your proposal report. You have the similar ACM
+proceedings template. Here, we're putting a
+better guideline in terms of the pagements because many times when you're
+writing report, we tend to ask you how many
+pages will have to write. We didn't specify this for the proposal report because
+the idea is we just you're getting started just
+write whatever you feel comfortable with the information that you think you
+can provide then. But by the time you
+get to the checkpoint, hopefully you have a little
+bit more content to include. Again, 3-9 pages so this
+is just a guideline. You don't have to feed
+them right into that. A little bit shorter,
+that's fine or a bit longer that's fine too. But the key point is
+that you want to convey the information effectively
+in this report. Just again, think about the specific sections we
+discussed for the proposal stage and then see how you have updated content for
+each of those sections.

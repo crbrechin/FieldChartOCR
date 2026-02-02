@@ -1,0 +1,187 @@
+Hello everyone. Today
+we're going to talk about finishing our project
+with a final report. Here as we're wrapping
+our course project. There are two key components, so we'd like to
+pay attention to. First one is about
+summarizing and presenting the key findings
+of your data mining project, but also analyze the
+overall project process and identifying
+possible improvements. We're almost done. We have spend a busy cannot turn like walking on
+the course project. We're now about to wrap
+up our course project. So as this final
+stage of estimation. We're talking about
+the two items. One is about the final slice. That's a presentation
+slides which should provide a big role, good overview of your project, but also the final
+project report, which we should provide more
+details about your project. We don't need to write the slides and the
+report from scratch. We're going to just take
+the checkpoint slides, check on the report, and the updated and expanded. We have our final report. As you're writing
+your final report, so the key part of course, is about what has been
+accomplished in your project? Because you spend
+all the time working on concrete like data
+mining projects. Make sure your report like
+conveys that message. What has been accomplished. But also it's important not to talk about what
+we have learned. The report is not just reported the mechanics of I
+have done 1, 2, 3. You really want to identify why you're doing it this way, what you have learned along the process. It's the reasoning. Specifically, as I said, we need this to two items
+for some issue costs. The first one is
+the final slides, so this the presentation slides. Just to provide an
+overview of your project. Since this is just a finishing, remember we started ways
+like 5-10 slides for your proposal and then 10-15, for your checkpoint, so
+now you're finishing. So we have another more
+information to include. We'll talk about
+roughly 15-20 slides. You don't worry about it since you have few
+other that is okay, but we really don't want you
+to have too many slides, because the idea is that this shouldn't be a good summary. Rather than providing all
+the details of your project. So roughly 15-20 slides. Also you want to provide a
+good overview of your project. Now you should have your
+final project title. If you have any updates
+of your title, fine, but make sure your
+final title is good, concise and informative. Also, it's important
+to include in your final presentation
+slides of executive summary. Here typically just molecule
+one slide or two slides. But this is really more
+like a quick summary, like what are the most
+important messages you want people to remember
+with your project. What are the key
+things you have down? What are the key findings
+of your projects? Then of course you get
+to the specific aspect about your problem statement, related work, or proposal
+work evaluation timeline, so that's what we have
+covered previously. But now of course, since
+you're finishing your project, you just wrapping things up, updating it with some more
+concrete information or refined like texts of what
+you have accomplished. But also keep in mind about the style of your slides as set, like as you're updating, adding content into your slides, always keep in mind that you want your slides to be clean, so it should be clean, concise, and also
+read the conveys. The key message, it's not
+about adding a lot of information they can be very complex trying to
+provide all the details, no, like you want to use the slides to provide
+a good summary. Get people's attention, highlighting the
+contributions of your work. So people are interested and they can actually then radio
+report for more details. So just keep all this in
+mind as you're updating your checkpoint
+slides to make it at your final project slides. All right. Then the next part, of course, this is
+the main document. That's the final project report. By now you should have
+your checkpoint reports. We said that always
+utilize 3-5 pages. Now of course you're
+adding more content. You are now finishing
+up your project. You have more results, you have more discussion
+with the measures, and other pieces, to expand a little
+bit further updated. Right now we're looking
+at roughly 5-10 pages. Again, it's not a hard limit. You can go beyond or
+below that slide is okay, but make sure that you're
+using the document to really convey what you have
+accomplished in the project. We still have the main that the same list of our sections. Project title and then in the
+main body of your report, you should have the abstract, the introduction, related work, proposal work, evaluation, discussion, conclusion,
+and references. By now you should probably
+know these sections very well. Let's go through this quickly. Again, just like now, thinking about finishing
+up your report and what are the key pieces to
+include in your report. Start with the Project Title. This is the time where you
+want to finalize your title. If you have been thinking about and maybe alternative title for your project or you say, since I have changed my directional focus
+a little bit and maybe I should have maybe use
+a slightly different title. Or let's say based on my key findings that this is really something I
+want to highlight, my project title, great. All those are potential ideas
+that you can leverage when you're trying to decide what your final project
+title would be. Or there's a
+previous work or the original you use is
+good, that's great. Just use it as is, but just make sure whenever
+you're talking about a project title keep in mind that it should be concise,
+should be informative. They'd all, when you're
+talking about the other, about your project
+with anybody else, people can quickly
+remember your project just based on the title so they have a generally good idea. I'll go back to your have
+accomplished in that project. That's project title, The next one, Abstract. This is the first section if you're using the ACM
+proceedings, a template. After title then you can say the abstract section is brief. You should have set
+a 1-2 paragraphs, so this is intended as a quick summary,
+executive summary style. You're basically just using
+these 1-2 paragraphs to very briefly talk about what
+is this project about. What do you have
+dying this approach? What is the problem
+you're tackling? What are the key work tasks
+you have accomplished? What are the key results? Really you're using probably one or two sentences
+for each of that, and then that, then you
+have your abstract. This one should be short, but provides a good summary, because most of the people
+when they're reading a report they start
+with the abstract, and from the abstract
+they should already have a good understanding of
+the gist of your project, then they can decide
+whether they want to read in more details. Say, okay, that's good, I already know what it is about. Also, compared to your proposal report on
+a checkpoint report, your abstract origin
+should already have a reasonably good summary
+of the problem, the tasks. But when you're
+finishing your project, in abstract, make sure you include a couple of sentences. That'll be your key findings. What is the most important
+in your findings? For example, I found there's a strong correlation
+between A and B, or I have developed a model that I can achieve for
+certain accuracy. Then you can then add, say we found this
+nominee or some set. Basically, just
+highlighting what is the most important finding
+of your project. Okay? Then we'll dive into the
+introduction section. This section is very important
+because it sets the stage. You want to really
+convince people in terms of I'm working with
+this particular problem, so make it clear what is the problem you're
+trying to address. Why this is important, because by now you should have a very good understanding
+of your problem setting. See whether you can refine the language there a bit like
+because you already have, of course, you
+should already have your introduction section from the proposal and from
+the checkpoint report. But this is really when you
+should review it carefully. Based on your enhanced
+understanding of the problem, see whether you can
+polish the texts, really highlight
+the problem itself. The importance of the problem, why previous solutions
+that are not sufficient, and why does the
+contribution in your work. Here the contribution,
+of course, this could include
+the ones that are already accomplished
+in your project. Well, still include
+this a potential angle because this also
+just to a bit of more like the impact or
+the down the road. Like you say, I have done this, but this could be very useful
+in some kind of scenarios. Think about a bit
+more broadly in terms of application scenarios
+of your findings. Then the next section
+is the related work. Here you would have said check whether you have included all
+the related work. As I said, you
+probably start with a good set during
+your proposal stage. Then maybe have added a few more during your
+checkpoint stage. Now, as you're wrapping
+up your project, see whether there are
+other things you would like to add or again, adjusting the wording of how you discuss the different the
+project and how you work, views all palm the
+previous work. The problem may not
+make major edits here, but just make sure you review it and refine it as omitted. Then the main section
+proposal work. By now of course not proposal work is actually what you have accomplished but we can just use the same section
+title for now. Make sure you go through
+the whole section, like the satellite by right
+now your understanding is probably much deeper and much better compared
+to when you started. Just make sure you review
+what you have written before. Update the information
+that's already there. For example, the
+datasets, the tools. If you added a new dataset or you have changed the
+dataset you were using, or you use or new tools, all those are useful to update. Then when you get to the
+main tasks, some of those, you already put it in during your checkpoint
+stage because there wasn't this is the things
+that have accomplished. That's okay. You can
+probably leave that as is. But if you had any iterations
+or updates or changes, make sure you revise
+those parts as well. Then of course you'll be
+adding the new pieces. For example, you talked about in your proposal or
+your check point and say this is something
+I would like to do. But now this is a one you
+actually say I actually did it. Then you can of course provide all the details of how you did the particular aspects of some of the analysis or
+some of the modeling, some of the actual setup
+for a particular design. All those are the important
+information to include. But also keep in
+mind the reasoning, so you don't just write
+about, I did this. This is how I did it. This is how I did
+this particular part, this is how they did this part, but always add it in the
+reasoning behind it. Why you're doing this? Why you do it in this way? Why using this method
+and not the other one. Then why you are improving existing investor with this
+particular change, something. Always add in your reasoning behind those specific tasks
+you'll have accomplished. Well cause here
+you may say, okay, our original list or
+like a couple of tasks, but I didn't get to it. That's okay. In this case, you can probably just move data to your discussion section. The discussion section is where
+you will be talking about the changes or things that
+you may not have finished. There's total I find that if you say I didn't get to this
+part, which is okay. Your proposal work
+with just talk about what you
+have accomplished, and then you can talk about the other pieces
+that you didn't get to do in the later section.
